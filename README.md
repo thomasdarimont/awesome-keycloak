@@ -14,10 +14,15 @@ websites, blog posts, links to github Repositories.
     * [Keycloak Website](#keycloak-website)
     * [Documentation from 2.0](#documentation-from-20)
     * [Documentation up to 1.9.x](#documentation-up-to-19x)
+  * [Mailing Lists](#mailing-lists)
+    * [User Mailing List](#user-mailing-list)
+    * [Developer Mailing List](#dev-mailing-list)
+* [Articles](#articles)
 * [Extentsions](#extensions)
 * [Themes](#themes)
 * [Example Projects](#example-projects)
 * [Benchmarks](#benchmarks)
+* [Commercial Offerings](#commercial-offerings)
 
 # General
 
@@ -26,6 +31,12 @@ websites, blog posts, links to github Repositories.
 ### [Keycloak Website](http://www.keycloak.org/)
 ### [Documentation from 2.0](http://www.keycloak.org/documentation.html)
 ### [Documentation up to 1.9.x](http://www.keycloak.org/documentation-archive.html)
+
+## Mailing Lists
+### [User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
+### [Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
+
+## Articles
 
 ## Extentsions
 
@@ -37,3 +48,5 @@ websites, blog posts, links to github Repositories.
 
 ## Benchmarks
 ### [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
+
+## Commercial Offerings
