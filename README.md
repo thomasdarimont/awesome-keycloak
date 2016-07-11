@@ -27,13 +27,13 @@ websites, blog posts, links to github Repositories.
 ### [Documentation from 2.0](http://www.keycloak.org/documentation.html)
 ### [Documentation up to 1.9.x](http://www.keycloak.org/documentation-archive.html)
 
-## [Extentsions]
+## Extentsions
 
-## [Themes]
+## Themes
 ### [Community Keycloak Ionic Theme] https://github.com/lfryc/keycloak-ionic-theme
 
-## [Example Projects]
+## Example Projects
 ### [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
 
-## [Benchmarks]
+## Benchmarks
 ### [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
