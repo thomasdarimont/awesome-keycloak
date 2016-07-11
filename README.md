@@ -12,8 +12,8 @@ websites, blog posts, links to github Repositories.
 * [General](#general)
   * [Documentation](#docs)
     * [Keycloak Website](#keycloak-website)
-    * [Documentation from 2.0](#documentation-from-2-0)
-    * [Documentation up to 1.9.x](#documentation-up-to-1-9-x)
+    * [Documentation from 2.0](#documentation-from-20)
+    * [Documentation up to 1.9.x](#documentation-up-to-19x)
 
 # General
 
