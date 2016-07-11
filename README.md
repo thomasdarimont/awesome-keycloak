@@ -30,7 +30,7 @@ websites, blog posts, links to github Repositories.
 ## Extentsions
 
 ## Themes
-### [Community Keycloak Ionic Theme] https://github.com/lfryc/keycloak-ionic-theme
+### [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 
 ## Example Projects
 ### [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
