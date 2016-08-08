@@ -18,7 +18,7 @@ websites, blog posts, links to github Repositories.
     * [User Mailing List](#user-mailing-list)
     * [Developer Mailing List](#dev-mailing-list)
 * [Articles](#articles)
-* [Extentsions](#extensions)
+* [Community Extentsions](#community-extentsions)
 * [Themes](#themes)
 * [Example Projects](#example-projects)
 * [Benchmarks](#benchmarks)
@@ -29,7 +29,7 @@ websites, blog posts, links to github Repositories.
 ## Documentation
 
 ### [Keycloak Website](http://www.keycloak.org/)
-### [Documentation from 2.0](http://www.keycloak.org/documentation.html)
+### [Documentation from 2.0 on](http://www.keycloak.org/documentation.html)
 ### [Documentation up to 1.9.x](http://www.keycloak.org/documentation-archive.html)
 
 ## Mailing Lists
@@ -38,7 +38,8 @@ websites, blog posts, links to github Repositories.
 
 ## Articles
 
-## Extentsions
+## Community Extentsions
+### [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 
 ## Themes
 ### [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
