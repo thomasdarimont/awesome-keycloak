@@ -18,7 +18,7 @@ websites, blog posts, links to github Repositories.
     * [User Mailing List](#user-mailing-list)
     * [Developer Mailing List](#dev-mailing-list)
 * [Articles](#articles)
-* [Community Extentsions](#community-extentsions)
+* [Community Extensions](#community-extensions)
 * [Themes](#themes)
 * [Example Projects](#example-projects)
 * [Benchmarks](#benchmarks)
@@ -38,7 +38,7 @@ websites, blog posts, links to github Repositories.
 
 ## Articles
 
-## Community Extentsions
+## Community Extensions
 ### [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 
 ## Themes
