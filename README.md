@@ -19,6 +19,7 @@ websites, blog posts, links to github Repositories.
     * [Developer Mailing List](#dev-mailing-list)
 * [Articles](#articles)
 * [Community Extensions](#community-extensions)
+* Integrations(#integrations)
 * [Themes](#themes)
 * [Docker](#docker)
 * [Example Projects](#example-projects)
@@ -41,6 +42,9 @@ websites, blog posts, links to github Repositories.
 
 ## Community Extensions
 ### [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
+
+## Integrations
+### [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
 
 ## Themes
 ### [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
