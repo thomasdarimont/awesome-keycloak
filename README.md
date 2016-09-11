@@ -18,6 +18,7 @@ websites, blog posts, links to github Repositories.
     * [User Mailing List](#user-mailing-list)
     * [Developer Mailing List](#dev-mailing-list)
 * [Articles](#articles)
+* [Presentations](#presentations)
 * [Community Extensions](#community-extensions)
 * Integrations(#integrations)
 * [Themes](#themes)
@@ -39,6 +40,12 @@ websites, blog posts, links to github Repositories.
 ### [Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 
 ## Articles
+### [How to get Keycloak working with Docker](http://www.ivonet.it/Java/Keycloak-Docker)
+### [Single-Sign-On for Microservices and/or Java EE applications with Keycloak SSO](http://www.n-k.de/2016/06/keycloak-sso-for-microservices.html)
+### [Keycloak Admin Client(s) - multiple ways to manage your SSO system](http://www.n-k.de/2016/08/keycloak-admin-client.html)
+
+## Presentations
+### [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
 
 ## Community Extensions
 ### [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
