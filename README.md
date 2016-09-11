@@ -43,6 +43,7 @@ websites, blog posts, links to github Repositories.
 ### [How to get Keycloak working with Docker](http://www.ivonet.it/Java/Keycloak-Docker)
 ### [Single-Sign-On for Microservices and/or Java EE applications with Keycloak SSO](http://www.n-k.de/2016/06/keycloak-sso-for-microservices.html)
 ### [Keycloak Admin Client(s) - multiple ways to manage your SSO system](http://www.n-k.de/2016/08/keycloak-admin-client.html)
+### [How to get the AccessToken of Keycloak in Spring Boot and/or Java EE](http://www.n-k.de/2016/05/how-to-get-accesstoken-from-keycloak-springboot-javaee.html)
 
 ## Presentations
 ### [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
