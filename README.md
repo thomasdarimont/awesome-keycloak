@@ -20,7 +20,7 @@ websites, blog posts, links to github Repositories.
 * [Articles](#articles)
 * [Presentations](#presentations)
 * [Community Extensions](#community-extensions)
-* Integrations(#integrations)
+* [Integrations](#integrations)
 * [Themes](#themes)
 * [Docker](#docker)
 * [Example Projects](#example-projects)
