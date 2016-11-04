@@ -17,6 +17,7 @@ websites, blog posts, links to github Repositories.
   * [Mailing Lists](#mailing-lists)
     * [User Mailing List](#user-mailing-list)
     * [Developer Mailing List](#dev-mailing-list)
+    * [Mailing List Search](#mailing-list-search)
 * [Articles](#articles)
 * [Presentations](#presentations)
 * [Community Extensions](#community-extensions)
@@ -38,6 +39,7 @@ websites, blog posts, links to github Repositories.
 ## Mailing Lists
 ### [User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
 ### [Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
+### [Mailing List Search](http://www.keycloak.org/search)
 
 ## Articles
 ### [How to get Keycloak working with Docker](http://www.ivonet.it/Java/Keycloak-Docker)
