@@ -66,6 +66,7 @@ websites, blog posts, links to github Repositories.
 ### [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 ### [Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles)
 ### [BeerCloak: a comprehensive KeyCloak extension example](https://github.com/dteleguin/beercloak)
+### [KeyCloak Extensions: Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles)
 
 ## Benchmarks
 ### [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
