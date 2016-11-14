@@ -55,6 +55,7 @@ websites, blog posts, links to github Repositories.
 ### [2016 Keycloak: Open Source Single Sign On - Sebastian Rose - AOE conf (german)](https://www.youtube.com/watch?v=wbKw0Bwyne4)
 ### [2016 Sécuriser ses applications back et front facilement avec Keycloak (french)](https://www.youtube.com/watch?v=bVidgluUcg0)
 ### [2016 Keycloak and Red Hat Mobile Application Platform](https://www.youtube.com/watch?v=4NBgiHM5aOA)
+### [2016 Easily secure your Front and back applications with KeyCloak](https://www.youtube.com/watch?v=RGp4HUKikts)
 
 ## Presentations
 ### [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
