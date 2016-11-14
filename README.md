@@ -19,6 +19,7 @@ websites, blog posts, links to github Repositories.
     * [Developer Mailing List](#dev-mailing-list)
     * [Mailing List Search](#mailing-list-search)
 * [Articles](#articles)
+* [Talks](#talks)
 * [Presentations](#presentations)
 * [Community Extensions](#community-extensions)
 * [Integrations](#integrations)
@@ -47,6 +48,13 @@ websites, blog posts, links to github Repositories.
 ### [Keycloak Admin Client(s) - multiple ways to manage your SSO system](http://www.n-k.de/2016/08/keycloak-admin-client.html)
 ### [How to get the AccessToken of Keycloak in Spring Boot and/or Java EE](http://www.n-k.de/2016/05/how-to-get-accesstoken-from-keycloak-springboot-javaee.html)
 ### [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
+
+## Talks
+### [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
+### [2016 You've Got Microservices Now Secure Them](https://www.youtube.com/watch?v=SfVhqf-rMQY)
+### [2016 Keycloak: Open Source Single Sign On - Sebastian Rose - AOE conf (german)](https://www.youtube.com/watch?v=wbKw0Bwyne4)
+### [2016 Sécuriser ses applications back et front facilement avec Keycloak (french)](https://www.youtube.com/watch?v=bVidgluUcg0)
+### [2016 Keycloak and Red Hat Mobile Application Platform](https://www.youtube.com/watch?v=4NBgiHM5aOA)
 
 ## Presentations
 ### [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
