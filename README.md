@@ -66,6 +66,7 @@ websites, blog posts, links to github Repositories.
 
 ## Integrations
 ### [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
+### [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak)
 
 ## Themes
 ### [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
