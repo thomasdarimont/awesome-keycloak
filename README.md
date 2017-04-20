@@ -71,6 +71,7 @@ websites, blog posts, links to github Repositories.
 
 ## Themes
 ### [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
+### [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 
 ## Docker
 ### [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
