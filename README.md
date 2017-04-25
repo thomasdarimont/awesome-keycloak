@@ -80,6 +80,7 @@ websites, blog posts, links to github Repositories.
 
 ## Example Projects
 ### [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
+### [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts)
 ### [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 ### [Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles)
 ### [BeerCloak: a comprehensive KeyCloak extension example](https://github.com/dteleguin/beercloak)
