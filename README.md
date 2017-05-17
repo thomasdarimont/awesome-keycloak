@@ -77,7 +77,7 @@ websites, blog posts, links to github Repositories.
 
 ## Docker
 ### [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
-### [Keycloak Examples as Docker Image)(https://hub.docker.com/r/jboss/keycloak-examples)
+### [Keycloak Examples as Docker Image](https://hub.docker.com/r/jboss/keycloak-examples)
 
 ## Example Projects
 ### [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
