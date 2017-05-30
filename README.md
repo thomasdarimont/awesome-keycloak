@@ -50,6 +50,7 @@ websites, blog posts, links to github Repositories.
 ### [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
 ### [Authenticating via Kerberos with Keycloak and Windows 2008 Active Directory](http://matthewcasperson.blogspot.de/2015/07/authenticating-via-kerberos-with.html)
 ### [Deploying Keycloak with Ansible](https://adam.younglogic.com/2016/01/deploying-keycloak-via-ansible/)
+### [Easily secure your Spring Boot applications with Keycloak](https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/)
 
 ## Talks
 ### [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
