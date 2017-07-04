@@ -87,6 +87,7 @@ websites, blog posts, links to github Repositories.
 *  [Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles)
 *  [BeerCloak: a comprehensive KeyCloak extension example](https://github.com/dteleguin/beercloak)
 *  [KeyCloak Extensions: Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles)
+*  [Red Hat Single Sign-On Labs](https://github.com/RedHatWorkshops/red-hat-sso)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
