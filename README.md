@@ -89,6 +89,7 @@ websites, blog posts, links to github Repositories.
 *  [KeyCloak Extensions: Securing Realm Resources With Custom Roles](https://github.com/dteleguin/custom-admin-roles)
 *  [Red Hat Single Sign-On Labs](https://github.com/RedHatWorkshops/red-hat-sso)
 *  [Spring Boot Keycloak Tutorial](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*  [Custom Keycloak Docker Image of Computer Science House of RIT](https://github.com/ComputerScienceHouse/keycloak-docker)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
