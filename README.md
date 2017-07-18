@@ -71,6 +71,7 @@ websites, blog posts, links to github Repositories.
 *  [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
 *  [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak)
 *  [Jenkins Keycloak Authentication Plugin](https://github.com/jenkinsci/keycloak-plugin)
+*  [Meteor Keycloak Accounts](https://github.com/mxab/meteor-keycloak)
 
 ## Themes
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
