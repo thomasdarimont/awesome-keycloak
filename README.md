@@ -29,6 +29,7 @@ websites, blog posts, links to github Repositories.
 * [Benchmarks](#benchmarks)
 * [Help](#help)
 * [Commercial Offerings](#commercial-offerings)
+* [Miscellaneous](#miscellaneous)
 
 # General
 
@@ -106,3 +107,6 @@ websites, blog posts, links to github Repositories.
 ## Commercial Offerings
 *  [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
 *  [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
+
+## Miscellaneous
+*  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
