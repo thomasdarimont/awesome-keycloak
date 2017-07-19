@@ -52,6 +52,7 @@ websites, blog posts, links to github Repositories.
 *  [Authenticating via Kerberos with Keycloak and Windows 2008 Active Directory](http://matthewcasperson.blogspot.de/2015/07/authenticating-via-kerberos-with.html)
 *  [Deploying Keycloak with Ansible](https://adam.younglogic.com/2016/01/deploying-keycloak-via-ansible/)
 *  [Easily secure your Spring Boot applications with Keycloak](https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/)
+* [How Red Hat re-designed its Single Sign On (SSO) architecture, and why](https://developers.redhat.com/blog/2016/10/04/how-red-hat-re-designed-its-single-sign-on-sso-architecture-and-why/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
