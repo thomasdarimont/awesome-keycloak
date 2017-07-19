@@ -27,6 +27,7 @@ websites, blog posts, links to github Repositories.
 * [Docker](#docker)
 * [Example Projects](#example-projects)
 * [Benchmarks](#benchmarks)
+* [Help](#help)
 * [Commercial Offerings](#commercial-offerings)
 
 # General
@@ -94,6 +95,9 @@ websites, blog posts, links to github Repositories.
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
+
+## Help
+* [Keycloak on Stackoverflow](https://stackoverflow.com/questions/tagged/keycloak)
 
 ## Commercial Offerings
 *  [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
