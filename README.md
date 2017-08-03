@@ -79,6 +79,7 @@ websites, blog posts, links to github Repositories.
 *  [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak)
 *  [Jenkins Keycloak Authentication Plugin](https://github.com/jenkinsci/keycloak-plugin)
 *  [Meteor Keycloak Accounts](https://github.com/mxab/meteor-keycloak)
+*  [HapiJS Keycloak Auth](https://github.com/felixheck/hapi-auth-keycloak)
 
 ## Themes
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
