@@ -73,6 +73,7 @@ websites, blog posts, links to github Repositories.
 
 ## Community Extensions
 *  [Keycloak: Link IdP Login with User Provider](https://github.com/ohioit/keycloak-link-idp-with-user)
+*  [Client Owner Manager: Control who can edit a client](https://github.com/cyclone-project/cyclone-client-registration)
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 
 ## Integrations
