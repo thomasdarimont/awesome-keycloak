@@ -72,6 +72,7 @@ websites, blog posts, links to github Repositories.
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
 
 ## Community Extensions
+*  [Keycloak: Link IdP Login with User Provider](https://github.com/ohioit/keycloak-link-idp-with-user)
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 
 ## Integrations
@@ -99,7 +100,7 @@ websites, blog posts, links to github Repositories.
 *  [Red Hat Single Sign-On Labs](https://github.com/RedHatWorkshops/red-hat-sso)
 *  [Spring Boot Keycloak Tutorial](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 *  [Custom Keycloak Docker Image of Computer Science House of RIT](https://github.com/ComputerScienceHouse/keycloak-docker)
-* [Example of custom password hash SPI for Keycloak](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
+*  [Example of custom password hash SPI for Keycloak](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
