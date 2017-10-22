@@ -57,6 +57,7 @@ websites, blog posts, links to github Repositories.
 * [How Red Hat re-designed its Single Sign On (SSO) architecture, and why](https://developers.redhat.com/blog/2016/10/04/how-red-hat-re-designed-its-single-sign-on-sso-architecture-and-why/)
 * [OAuth2, JWT, Open-ID Connect and other confusing things](http://giallone.blogspot.de/2017/06/oath2.html)
 * [X509 Authentication with Keycloak and JBoss Fuse](https://sjhiggs.github.io/fuse/sso/x509/smartcard/2017/03/29/fuse-hawtio-keycloak.html)
+* [Running Keycloak on OpenShift 3](https://medium.com/@sbose78/running-keycloak-on-openshift-3-8d195c0daaf6)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
