@@ -60,6 +60,7 @@ websites, blog posts, links to github Repositories.
 * [Running Keycloak on OpenShift 3](https://medium.com/@sbose78/running-keycloak-on-openshift-3-8d195c0daaf6)
 * [Introducing Keycloak for Identity and Access Management](https://www.thomasvitale.com/introducing-keycloak-identity-access-management/)
 * [Keycloak Basic Configuration for Authentication and Authorisation](https://www.thomasvitale.com/keycloak-configuration-authentication-authorisation/)
+* [Keycloak on OpenShift Origin](https://medium.com/@james_devcomb/keycloak-on-openshift-origin-ee81d01dac97)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
