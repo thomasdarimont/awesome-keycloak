@@ -89,6 +89,7 @@ websites, blog posts, links to github Repositories.
 *  [Jenkins Keycloak Authentication Plugin](https://github.com/jenkinsci/keycloak-plugin)
 *  [Meteor Keycloak Accounts](https://github.com/mxab/meteor-keycloak)
 *  [HapiJS Keycloak Auth](https://github.com/felixheck/hapi-auth-keycloak)
+*  [zmartzone mod_auth_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc)
 
 ## Themes
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
