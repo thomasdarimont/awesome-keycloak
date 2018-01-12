@@ -63,6 +63,7 @@ websites, blog posts, links to github Repositories.
 * [Keycloak on OpenShift Origin](https://medium.com/@james_devcomb/keycloak-on-openshift-origin-ee81d01dac97)
 * [Identity Management, One-Time-Passwords and Two-Factor-Auth with Spring Boot and Keycloak](http://www.hascode.com/2017/11/identity-management-one-time-passwords-and-two-factor-auth-with-spring-boot-and-keycloak/)
 * [Keycloak Identity Brokering with Openshift](https://developers.redhat.com/blog/2017/12/06/keycloak-identity-brokering-openshift/)
+* [OpenID Connect Identity Brokering with Red Hat Single Sign-On](https://developers.redhat.com/blog/2017/10/18/openid-connect-identity-brokering-red-hat-single-sign/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
