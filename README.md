@@ -114,6 +114,7 @@ websites, blog posts, links to github Repositories.
 *  [Example for a custom http-client-provider with Proxy support](https://github.com/xiaoyvr/custom-http-client-provider)
 *  [Monitor your keycloak with prometheus](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
 *  [Custom User Storage Provider .ear with jboss-cli setup](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
+*  [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak](https://github.com/stianst/keycloak-experimental)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
