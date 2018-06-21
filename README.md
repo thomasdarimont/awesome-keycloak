@@ -100,6 +100,9 @@ websites, blog posts, links to github Repositories.
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
 *  [Keycloak Examples as Docker Image](https://hub.docker.com/r/jboss/keycloak-examples)
 
+## Kubernetes
+*  [Keycloak Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/keycloak)
+
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
 *  [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts)
