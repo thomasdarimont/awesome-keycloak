@@ -75,6 +75,7 @@ websites, blog posts, links to github Repositories.
 *  [2016 Easily secure your Front and back applications with KeyCloak](https://www.youtube.com/watch?v=RGp4HUKikts)
 *  [2017 Easily secure your Spring Boot applications with Keycloak - Part 1](https://developers.redhat.com/video/youtube/vpgRTPFDHAw/)
 *  [2017 Easily secure your Spring Boot applications with Keycloak - Part 2](https://developers.redhat.com/video/youtube/O5ePCWON08Y/)
+*  [2018 How to secure your Spring Apps with Keycloak by Thomas Darimont @ Spring I/O 2018](https://www.youtube.com/watch?v=haHFoeWUj0w)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
