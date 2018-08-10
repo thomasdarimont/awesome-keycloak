@@ -139,3 +139,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
+
+
+# License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Thomas Darimont](https://github.com/thomasdarimont) has waived all copyright and related or neighboring rights to this work.
