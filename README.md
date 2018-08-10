@@ -84,6 +84,7 @@ websites, blog posts, links to github Repositories.
 *  [Keycloak: Link IdP Login with User Provider](https://github.com/ohioit/keycloak-link-idp-with-user)
 *  [Client Owner Manager: Control who can edit a client](https://github.com/cyclone-project/cyclone-client-registration)
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
+*  [Script based ProtocolMapper extension for SAML](https://github.com/cloudtrust/keycloak-client-mappers)
 
 ## Integrations
 *  [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
