@@ -11,7 +11,7 @@ Contains books, websites, blog posts, links to github Repositories.
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
-# Keycloak Learning Resources
+# Contents
 
 * [General](#general)
   * [Documentation](#docs)
