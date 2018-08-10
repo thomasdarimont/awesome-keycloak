@@ -1,10 +1,14 @@
-# Awesome Keycloak
+# Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources for learning about Keycloak. Contains books,
-websites, blog posts, links to github Repositories.
+# [<img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png">](https://github.com/thomasdarimont/awesome-keycloak)
+
+> Carefully curated list of awesome Keycloak resources.
+
+A curated list of resources for learning about the Open Source Identity and Access Management solution Keycloak. 
+Contains books, websites, blog posts, links to github Repositories.  
 
 # Contributing
-
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 # Keycloak Learning Resources
