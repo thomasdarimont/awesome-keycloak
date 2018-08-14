@@ -90,6 +90,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 *  [Script based ProtocolMapper extension for SAML](https://github.com/cloudtrust/keycloak-client-mappers)
 *  [Realm export REST resource by Cloudtrust](https://github.com/cloudtrust/keycloak-export)
+*  [Keycloak Client written in Go by Cloudtrust](https://github.com/cloudtrust/keycloak-client)
 
 ## Integrations
 *  [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
