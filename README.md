@@ -107,6 +107,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
 *  [Keycloak Examples as Docker Image](https://hub.docker.com/r/jboss/keycloak-examples)
+*  [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## Kubernetes
 *  [Keycloak Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/keycloak)
