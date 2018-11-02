@@ -95,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 *  [Script based ProtocolMapper extension for SAML](https://github.com/cloudtrust/keycloak-client-mappers)
 *  [Realm export REST resource by Cloudtrust](https://github.com/cloudtrust/keycloak-export)
+*  [Keycloak JDBC Ping Setup by moremagic](https://github.com/moremagic/keycloak-jdbc-ping)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
