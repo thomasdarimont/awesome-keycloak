@@ -84,15 +84,20 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
 
+## Clients
+*  [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
+*  [Keycloak Node.js TypeScript Admin Client by Canner](https://github.com/Canner/keycloak-admin/)
+*  [Keycloak Go Client by Cloudtrust](https://github.com/cloudtrust/keycloak-client)
+
 ## Community Extensions
 *  [Keycloak: Link IdP Login with User Provider](https://github.com/ohioit/keycloak-link-idp-with-user)
 *  [Client Owner Manager: Control who can edit a client](https://github.com/cyclone-project/cyclone-client-registration)
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
 *  [Script based ProtocolMapper extension for SAML](https://github.com/cloudtrust/keycloak-client-mappers)
 *  [Realm export REST resource by Cloudtrust](https://github.com/cloudtrust/keycloak-export)
-*  [Keycloak Client written in Go by Cloudtrust](https://github.com/cloudtrust/keycloak-client)
 
 ## Integrations
+*  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
 *  [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
 *  [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak)
 *  [Jenkins Keycloak Authentication Plugin](https://github.com/jenkinsci/keycloak-plugin)
