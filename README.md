@@ -106,6 +106,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Meteor Keycloak Accounts](https://github.com/mxab/meteor-keycloak)
 *  [HapiJS Keycloak Auth](https://github.com/felixheck/hapi-auth-keycloak)
 *  [zmartzone mod_auth_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc)
+*  [Securing Nginx with Keycloak](https://edhull.co.uk/blog/2018-06-06/keycloak-nginx)
 
 ## Themes
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
