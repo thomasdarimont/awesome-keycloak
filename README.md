@@ -70,6 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [OpenID Connect Identity Brokering with Red Hat Single Sign-On](https://developers.redhat.com/blog/2017/10/18/openid-connect-identity-brokering-red-hat-single-sign/)
 *  [Authentication & user management is hard](https://eclipsesource.com/blogs/2018/01/11/authenticating-reverse-proxy-with-keycloak/)
 *  [Securing Nginx with Keycloak](https://edhull.co.uk/blog/2018-06-06/keycloak-nginx)
+*  [Secure kibana dashboards using keycloak](https://aboullaite.me/secure-kibana-keycloak/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
