@@ -139,6 +139,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Custom User Storage Provider .ear with jboss-cli setup](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 *  [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak](https://github.com/stianst/keycloak-experimental)
 *  [Securing Spring Boot Admin & Actuator Endpoints with Keycloak](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
+*  [A Keycloak Mobile Implementation using Angular v4 and Ionic v3](https://github.com/tomjackman/keyonic-v2)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
