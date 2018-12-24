@@ -84,6 +84,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2017 Easily secure your Spring Boot applications with Keycloak - Part 1](https://developers.redhat.com/video/youtube/vpgRTPFDHAw/)
 *  [2017 Easily secure your Spring Boot applications with Keycloak - Part 2](https://developers.redhat.com/video/youtube/O5ePCWON08Y/)
 *  [2018 How to secure your Spring Apps with Keycloak by Thomas Darimont @ Spring I/O 2018](https://www.youtube.com/watch?v=haHFoeWUj0w)
+*  [2018 DevNation Live | A Deep Dive into Keycloak](https://www.youtube.com/watch?v=ZxpY_zZ52kU)
 *  [IDM Europe 2018: WSO2 Identity Server vs. Keycloak (Dmitry Kann)](https://www.youtube.com/watch?v=hnjBiGsEDoU)
 
 ## Presentations
