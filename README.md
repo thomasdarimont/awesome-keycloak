@@ -124,6 +124,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Kubernetes
 *  [Keycloak Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/keycloak)
+*  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
