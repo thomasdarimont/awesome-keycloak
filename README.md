@@ -40,8 +40,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Documentation
 
 *  [Keycloak Website](http://www.keycloak.org/)
-*  [Documentation from 2.0 on](http://www.keycloak.org/documentation.html)
-*  [Documentation up to 1.9.x](http://www.keycloak.org/documentation-archive.html)
+*  [Current Documentation](http://www.keycloak.org/documentation.html)
+*  [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
 *  [Product Documentation for Red Hat Single Sign-On](https://access.redhat.com/documentation/en/red-hat-single-sign-on/)
 
 ## Mailing Lists
