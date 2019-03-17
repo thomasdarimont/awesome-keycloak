@@ -15,9 +15,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [General](#general)
   * [Documentation](#docs)
-    * [Keycloak Website](#keycloak-website)
-    * [Current Documentation](#current-documentation)
-    * [Archived Documentation](#archived-documentation)
+    * [Keycloak Website](http://www.keycloak.org)
+    * [Current Documentation](http://www.keycloak.org/documentation.html)
+    * [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
   * [Mailing Lists](#mailing-lists)
     * [User Mailing List](#user-mailing-list)
     * [Developer Mailing List](#dev-mailing-list)
