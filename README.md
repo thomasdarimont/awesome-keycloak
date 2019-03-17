@@ -146,6 +146,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Securing Spring Boot Admin & Actuator Endpoints with Keycloak](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
 *  [A Keycloak Mobile Implementation using Angular v4 and Ionic v3](https://github.com/tomjackman/keyonic-v2)
 *  [Example for Securing Apps with Keycloak on Kubernetes](https://github.com/stianst/demo-kubernetes)
+*  [Example for Securing AspDotNet Core Apps with Keycloak](https://github.com/thomasdarimont/kc-dnc-demo)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
