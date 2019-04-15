@@ -115,6 +115,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [HapiJS Keycloak Auth](https://github.com/felixheck/hapi-auth-keycloak)
 *  [zmartzone mod_auth_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc)
 
+## Quick demo Videos
+* [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
+
 ## Themes
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
