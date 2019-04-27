@@ -129,7 +129,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## Kubernetes
-*  [Keycloak Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/keycloak)
+*  [Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 
 ## Example Projects
