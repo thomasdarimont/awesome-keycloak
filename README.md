@@ -118,6 +118,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [zmartzone mod_auth_openidc for Apache 2.x](https://github.com/zmartzone/mod_auth_openidc)
 *  [Duo Security MFA Authentication for Keycloak](https://github.com/mulesoft-labs/keycloak-duo-spi)
 *  [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect)
+*  [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
 
 
 ## Quick demo Videos
