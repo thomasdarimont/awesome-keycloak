@@ -107,6 +107,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [SMS 2 Factor Authentication for Keycloak via AWS SNS](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 *  [SMS 2 Factor Authentiation for Keycloak via SMS by Alliander](https://github.com/Alliander/keycloak-sms-authenticator)
 *  [Identity Provider for vk.com](https://github.com/mrk08/keycloak-vk)
+*  [CAS Protocol Support](https://github.com/Doccrazy/keycloak-protocol-cas)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
