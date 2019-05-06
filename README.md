@@ -119,6 +119,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Duo Security MFA Authentication for Keycloak](https://github.com/mulesoft-labs/keycloak-duo-spi)
 *  [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect)
 *  [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
+*  [Keycloak Python Client](https://github.com/akhilputhiry/keycloak-client)
 
 
 ## Quick demo Videos
