@@ -162,6 +162,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Example for Securing Apps with Keycloak on Kubernetes](https://github.com/stianst/demo-kubernetes)
 *  [Example for Securing AspDotNet Core Apps with Keycloak](https://github.com/thomasdarimont/kc-dnc-demo)
 *  [Example for passing custom URL parameters to a Keycloak theme for dynamic branding](https://github.com/dteleguin/keycloak-dynamic-branding)
+* [NodeJs API secured with Keycloak](https://github.com/CodepediaOrg/bookmarks-api)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
