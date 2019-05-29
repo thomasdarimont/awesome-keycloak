@@ -74,6 +74,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Configuring NGINX for OAuth/OpenID Connect SSO with Keycloak/Red Hat SSO](https://developers.redhat.com/blog/2018/10/08/configuring-nginx-keycloak-oauth-oidc/)
 *  [Keycloak Clustering Setup and Configuration Examples](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)
 *  [MicroProfile JWT with Keycloak](https://kodnito.com/posts/microprofile-jwt-with-keycloak/)
+*  [Keycloak Essentials](https://medium.com/keycloak/keycloak-essentials-86254b2f1872)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
