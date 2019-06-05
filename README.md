@@ -75,6 +75,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Clustering Setup and Configuration Examples](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)
 *  [MicroProfile JWT with Keycloak](https://kodnito.com/posts/microprofile-jwt-with-keycloak/)
 *  [Keycloak Essentials](https://medium.com/keycloak/keycloak-essentials-86254b2f1872)
+*  [SSO-session failover with Keycloak and AWS S3](https://medium.com/@georgijsr/sso-session-failover-with-keycloak-and-aws-s3-e0b1db985e12)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
