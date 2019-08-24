@@ -74,6 +74,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Configuring NGINX for OAuth/OpenID Connect SSO with Keycloak/Red Hat SSO](https://developers.redhat.com/blog/2018/10/08/configuring-nginx-keycloak-oauth-oidc/)
 *  [Keycloak Clustering Setup and Configuration Examples](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)
 *  [MicroProfile JWT with Keycloak](https://kodnito.com/posts/microprofile-jwt-with-keycloak/)
+*  [Keycloak Essentials](https://medium.com/keycloak/keycloak-essentials-86254b2f1872)
+*  [SSO-session failover with Keycloak and AWS S3](https://medium.com/@georgijsr/sso-session-failover-with-keycloak-and-aws-s3-e0b1db985e12)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -131,6 +133,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Themes
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
+*  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
+*  [Carbon Design](https://github.com/httpsOmkar/keycloak-carbon-theme)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -162,7 +166,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Example for Securing Apps with Keycloak on Kubernetes](https://github.com/stianst/demo-kubernetes)
 *  [Example for Securing AspDotNet Core Apps with Keycloak](https://github.com/thomasdarimont/kc-dnc-demo)
 *  [Example for passing custom URL parameters to a Keycloak theme for dynamic branding](https://github.com/dteleguin/keycloak-dynamic-branding)
-* [NodeJs API secured with Keycloak](https://github.com/CodepediaOrg/bookmarks-api)
+*  [NodeJs API secured with Keycloak](https://github.com/CodepediaOrg/bookmarks-api)
+*  [Angular Webapp secured with Keycloak](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
@@ -177,6 +182,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
+*  [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
 
 
 # License
