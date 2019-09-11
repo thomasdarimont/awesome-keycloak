@@ -93,6 +93,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [JPrime 2018|Building an effective identity and access management architecture with Keycloak (Sebastien Blanc)](https://www.youtube.com/watch?v=bMqcGkCvUVQ)
 *  [WJAX 2018 | Sichere Spring-Anwendungen mit Keycloak](https://www.youtube.com/watch?v=6Z490EMcafs)
 *  [2019 Spring I/O | Secure your Spring Apps with Keycloak](https://www.youtube.com/watch?v=KrOd5wIkqls)
+*  [2019 DevoxxFR | Maitriser sa gestion de l'identité avec Keycloak (L. Benoit, T. Recloux, S. Blanc)](https://www.youtube.com/watch?v=0cziL__0-K8)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
