@@ -125,6 +125,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect)
 *  [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
 *  [Keycloak Python Client](https://github.com/akhilputhiry/keycloak-client)
+*  [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak)
 
 
 ## Quick demo Videos
