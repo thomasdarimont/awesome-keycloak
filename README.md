@@ -140,6 +140,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Python Client](https://github.com/akhilputhiry/keycloak-client)
 *  [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak)
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
+*  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
 
 
 ## Quick demo Videos
