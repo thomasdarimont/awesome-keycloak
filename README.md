@@ -45,8 +45,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Product Documentation for Red Hat Single Sign-On](https://access.redhat.com/documentation/en/red-hat-single-sign-on/)
 
 ## Mailing Lists
-*  [User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
-*  [Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
+*  [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
+*  [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
+*  [Keycloak Discourse Group](https://keycloak.discourse.group/)
+*  [Keycloak Developer Chat](https://keycloak.zulipchat.com)
+*  [Inactive - User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
+*  [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 *  [Mailing List Search](http://www.keycloak.org/search)
 
 ## Articles
