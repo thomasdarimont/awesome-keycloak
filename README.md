@@ -145,6 +145,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak)
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
+*  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
 
 
 ## Quick demo Videos
