@@ -129,6 +129,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Identity Provider for vk.com](https://github.com/mrk08/keycloak-vk)
 *  [CAS Protocol Support](https://github.com/Doccrazy/keycloak-protocol-cas)
 *  [WS-FED Support](https://github.com/cloudtrust/keycloak-wsfed)
+*  [Keycloak Discord Support](https://github.com/wadahiro/keycloak-discord)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
