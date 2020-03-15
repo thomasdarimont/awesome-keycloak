@@ -206,6 +206,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
 *  [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
+*  [keycloak-config-cli Tool](https://github.com/adorsys/keycloak-config-cli)
 
 
 # License
