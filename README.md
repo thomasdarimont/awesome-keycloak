@@ -44,7 +44,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
 *  [Product Documentation for Red Hat Single Sign-On](https://access.redhat.com/documentation/en/red-hat-single-sign-on/)
 
-## Mailing Lists
+## Discussion Groups and Mailing Lists
 *  [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *  [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *  [Keycloak Discourse Group](https://keycloak.discourse.group/)
@@ -52,6 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Inactive - User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
 *  [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 *  [Mailing List Search](http://www.keycloak.org/search)
+*  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 
 ## Articles
 *  [How to get Keycloak working with Docker](http://www.ivonet.it/Java/Keycloak-Docker)
