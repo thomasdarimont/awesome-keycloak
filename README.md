@@ -55,7 +55,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 
 ## Articles
-*  [How to get Keycloak working with Docker](http://www.ivonet.it/Java/Keycloak-Docker)
+*  [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
 *  [Single-Sign-On for Microservices and/or Java EE applications with Keycloak SSO](http://www.n-k.de/2016/06/keycloak-sso-for-microservices.html)
 *  [Keycloak Admin Client(s) - multiple ways to manage your SSO system](http://www.n-k.de/2016/08/keycloak-admin-client.html)
 *  [How to get the AccessToken of Keycloak in Spring Boot and/or Java EE](http://www.n-k.de/2016/05/how-to-get-accesstoken-from-keycloak-springboot-javaee.html)
