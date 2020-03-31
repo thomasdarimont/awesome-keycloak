@@ -169,6 +169,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
+*  [keycloak-operator](https://github.com/keycloak/keycloak-operator)
 
 ## Tools
 *  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
