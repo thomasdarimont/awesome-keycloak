@@ -158,7 +158,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
-*  [Carbon Design](https://github.com/httpsOmkar/keycloak-carbon-theme)
+*  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
