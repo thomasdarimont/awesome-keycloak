@@ -151,7 +151,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
 *  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
 
-
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
 
@@ -170,6 +169,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
+
+## Tools
+*  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
