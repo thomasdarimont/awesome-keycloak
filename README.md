@@ -133,6 +133,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [CAS Protocol Support](https://github.com/Doccrazy/keycloak-protocol-cas)
 *  [WS-FED Support](https://github.com/cloudtrust/keycloak-wsfed)
 *  [Keycloak Discord Support](https://github.com/wadahiro/keycloak-discord)
+*  [Keycloak Login with User Attribute](https://github.com/cnieg/keycloak-login-attribute)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
