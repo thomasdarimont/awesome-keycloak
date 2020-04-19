@@ -151,6 +151,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
 *  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
+*  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak/blob/master/start.sh)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
@@ -159,7 +160,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
-*  [Carbon Design](https://github.com/httpsOmkar/keycloak-carbon-theme)
+*  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
