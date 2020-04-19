@@ -152,6 +152,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
 *  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
 *  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak/blob/master/start.sh)
+*  [SSO for Keycloak and Nextcloud with SAML](https://stackoverflow.com/questions/48400812/sso-with-saml-keycloak-and-nextcloud)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
