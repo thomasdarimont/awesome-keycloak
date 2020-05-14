@@ -169,6 +169,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 *  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*  [Modern](https://keycloakthemes.com/themes/modern)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
