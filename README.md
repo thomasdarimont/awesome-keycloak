@@ -94,6 +94,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak user migration – connect your legacy authentication system to Keycloak](https://codesoapbox.dev/keycloak-user-migration/)
 * [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
 * [Kong / Konga / Keycloak: securing API through OIDC](https://github.com/d4rkstar/kong-konga-keycloak)
+* [KeyCloak: Custom Login theme](https://codehumsafar.wordpress.com/2018/09/11/keycloak-custom-login-theme/)
+* [Keycloak: Use background color instead of background image in Custom Login theme](https://codehumsafar.wordpress.com/2018/09/21/keycloak-use-background-color-instead-of-background-image-in-custom-login-theme/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
