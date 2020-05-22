@@ -99,6 +99,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [How to add a custom field to the Keycloak registration page](https://keycloakthemes.com/blog/how-to-add-custom-field-keycloak-registration-page)
 * [How to setup Sign in with Google using Keycloak](https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak)
 * [How to sign in users on Keycloak using Github](https://keycloakthemes.com/blog/how-to-sign-in-users-on-keycloak-using-github)
+* [How to turn off the Keycloak theme cache](https://keycloakthemes.com/blog/how-to-turn-off-the-keycloak-theme-cache)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -172,6 +173,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 *  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*  [Modern](https://keycloakthemes.com/themes/modern)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
