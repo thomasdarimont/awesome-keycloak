@@ -172,6 +172,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 *  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
 *  [Modern](https://keycloakthemes.com/themes/modern)
+*  [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
