@@ -162,6 +162,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak/blob/master/start.sh)
 *  [SSO for Keycloak and Nextcloud with SAML](https://stackoverflow.com/questions/48400812/sso-with-saml-keycloak-and-nextcloud)
 *  [Keycloak Connect GraphQL Adapter for Node.js](https://github.com/aerogear/keycloak-connect-graphql)
+*  [python-keycloak](https://github.com/marcospereirampj/python-keycloak)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
