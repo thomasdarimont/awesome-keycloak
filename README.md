@@ -189,6 +189,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Tools
 *  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
 *  [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API](https://github.com/ccouzens/keycloak-openapi)
+*  [oidc-bash-client](https://github.com/please-openit/oidc-bash-client)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
