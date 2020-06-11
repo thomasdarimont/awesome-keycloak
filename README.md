@@ -97,6 +97,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [KeyCloak: Custom Login theme](https://codehumsafar.wordpress.com/2018/09/11/keycloak-custom-login-theme/)
 * [Keycloak: Use background color instead of background image in Custom Login theme](https://codehumsafar.wordpress.com/2018/09/21/keycloak-use-background-color-instead-of-background-image-in-custom-login-theme/)
 * [How to turn off the Keycloak theme cache](https://keycloakthemes.com/blog/how-to-turn-off-the-keycloak-theme-cache)
+* [How to add a custom field to the Keycloak registration page](https://keycloakthemes.com/blog/how-to-add-custom-field-keycloak-registration-page)
+* [How to setup Sign in with Google using Keycloak](https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak)
+* [How to sign in users on Keycloak using Github](https://keycloakthemes.com/blog/how-to-sign-in-users-on-keycloak-using-github)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
