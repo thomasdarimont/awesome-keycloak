@@ -149,6 +149,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Discord Support](https://github.com/wadahiro/keycloak-discord)
 *  [Keycloak Login with User Attribute](https://github.com/cnieg/keycloak-login-attribute)
 *  [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions)
+*  [leroyguillaume/keycloak-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
