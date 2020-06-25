@@ -200,7 +200,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API](https://github.com/ccouzens/keycloak-openapi)
 *  [oidc-bash-client](https://github.com/please-openit/oidc-bash-client)
 *  [louketo-proxy (FKA Gatekeeper)](https://github.com/louketo/louketo-proxy)
-*  [keycloak-config-cli Tool](https://github.com/adorsys/keycloak-config-cli)
+*  [keycloak-config-cli: Configuration as Code for Keycloak](https://github.com/adorsys/keycloak-config-cli)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
