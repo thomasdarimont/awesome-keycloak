@@ -55,7 +55,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 
 ## Articles
-*  [How to get Keycloak working with Docker](http://www.ivonet.it/Java/Keycloak-Docker)
+*  [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
 *  [Single-Sign-On for Microservices and/or Java EE applications with Keycloak SSO](http://www.n-k.de/2016/06/keycloak-sso-for-microservices.html)
 *  [Keycloak Admin Client(s) - multiple ways to manage your SSO system](http://www.n-k.de/2016/08/keycloak-admin-client.html)
 *  [How to get the AccessToken of Keycloak in Spring Boot and/or Java EE](http://www.n-k.de/2016/05/how-to-get-accesstoken-from-keycloak-springboot-javaee.html)
@@ -92,6 +92,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [How to exchange token from an external provider to a keycloak token](https://www.mathieupassenaud.fr/token-exchange-keycloak/)
 * [Building an Event Listener SPI (Plugin) for Keycloak](https://dev.to/adwaitthattey/building-an-event-listener-spi-plugin-for-keycloak-2044)
 * [Keycloak user migration – connect your legacy authentication system to Keycloak](https://codesoapbox.dev/keycloak-user-migration/)
+* [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
+* [Kong / Konga / Keycloak: securing API through OIDC](https://github.com/d4rkstar/kong-konga-keycloak)
+* [KeyCloak: Custom Login theme](https://codehumsafar.wordpress.com/2018/09/11/keycloak-custom-login-theme/)
+* [Keycloak: Use background color instead of background image in Custom Login theme](https://codehumsafar.wordpress.com/2018/09/21/keycloak-use-background-color-instead-of-background-image-in-custom-login-theme/)
+* [How to turn off the Keycloak theme cache](https://keycloakthemes.com/blog/how-to-turn-off-the-keycloak-theme-cache)
+* [How to add a custom field to the Keycloak registration page](https://keycloakthemes.com/blog/how-to-add-custom-field-keycloak-registration-page)
+* [How to setup Sign in with Google using Keycloak](https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak)
+* [How to sign in users on Keycloak using Github](https://keycloakthemes.com/blog/how-to-sign-in-users-on-keycloak-using-github)
+* [Extending Keycloak SSO Capabilities with IBM Security Verify](https://community.ibm.com/community/user/security/blogs/jason-choi1/2020/06/10/extending-keycloak-sso-capabilities-with-ibm-secur)
+* [AWS SAML based User Federation using Keycloak](https://medium.com/@karanbir.tech/aws-connect-saml-based-identity-provider-using-keycloak-9b3e6d0111e6)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -110,6 +120,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2018 WJAX| Sichere Spring-Anwendungen mit Keycloak](https://www.youtube.com/watch?v=6Z490EMcafs)
 *  [2019 Spring I/O | Secure your Spring Apps with Keycloak](https://www.youtube.com/watch?v=KrOd5wIkqls)
 *  [2019 DevoxxFR | Maitriser sa gestion de l'identité avec Keycloak (L. Benoit, T. Recloux, S. Blanc)](https://www.youtube.com/watch?v=0cziL__0-K8)
+*  [2020 Keycloak Team | Keycloak Pitch](https://www.youtube.com/watch?v=GZTN_VXjoQw)
+*  [2020 Keycloak Team | Keycloak Overview](https://www.youtube.com/watch?v=duawSV69LDI)
+*  [2020 Please-open.it : oauth2 dans le monde des ops (french)](https://www.youtube.com/watch?v=S-9X50QajmY)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
@@ -118,6 +131,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
 *  [Keycloak Node.js TypeScript Admin Client by Canner](https://github.com/Canner/keycloak-admin/)
 *  [Keycloak Go Client by Cloudtrust](https://github.com/cloudtrust/keycloak-client)
+*  [Keycloak Nest.js Admin Client by Relevant Fruit](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
 ## Community Extensions
 *  [Keycloak Extensions List](https://www.keycloak.org/extensions.html)
@@ -133,6 +147,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [CAS Protocol Support](https://github.com/Doccrazy/keycloak-protocol-cas)
 *  [WS-FED Support](https://github.com/cloudtrust/keycloak-wsfed)
 *  [Keycloak Discord Support](https://github.com/wadahiro/keycloak-discord)
+*  [Keycloak Login with User Attribute](https://github.com/cnieg/keycloak-login-attribute)
+*  [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions)
+*  [leroyguillaume/keycloak-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
@@ -150,7 +167,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
 *  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
-
+*  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak/blob/master/start.sh)
+*  [SSO for Keycloak and Nextcloud with SAML](https://stackoverflow.com/questions/48400812/sso-with-saml-keycloak-and-nextcloud)
+*  [Keycloak Connect GraphQL Adapter for Node.js](https://github.com/aerogear/keycloak-connect-graphql)
+*  [python-keycloak](https://github.com/marcospereirampj/python-keycloak)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
@@ -159,7 +179,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
-*  [Carbon Design](https://github.com/httpsOmkar/keycloak-carbon-theme)
+*  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*  [Modern](https://keycloakthemes.com/themes/modern)
+*  [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -170,6 +192,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
+*  [keycloak-operator](https://github.com/keycloak/keycloak-operator)
+
+## Tools
+*  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
+*  [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API](https://github.com/ccouzens/keycloak-openapi)
+*  [oidc-bash-client](https://github.com/please-openit/oidc-bash-client)
+*  [louketo-proxy (FKA Gatekeeper)](https://github.com/louketo/louketo-proxy)
+*  [keycloak-config-cli Tool](https://github.com/adorsys/keycloak-config-cli)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
@@ -208,8 +238,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
 *  [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
-*  [keycloak-config-cli Tool](https://github.com/adorsys/keycloak-config-cli)
-
 
 # License
 
