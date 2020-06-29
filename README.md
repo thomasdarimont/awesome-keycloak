@@ -167,10 +167,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
 *  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
-*  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak/blob/master/start.sh)
+*  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak)
 *  [SSO for Keycloak and Nextcloud with SAML](https://stackoverflow.com/questions/48400812/sso-with-saml-keycloak-and-nextcloud)
 *  [Keycloak Connect GraphQL Adapter for Node.js](https://github.com/aerogear/keycloak-connect-graphql)
 *  [python-keycloak](https://github.com/marcospereirampj/python-keycloak)
+*  [Keycloak and PrivacyId3a docker-compose (local development)](https://github.com/JaouherK/keycloak-privacyIdea)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
