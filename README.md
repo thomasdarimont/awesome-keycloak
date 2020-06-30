@@ -174,6 +174,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Connect GraphQL Adapter for Node.js](https://github.com/aerogear/keycloak-connect-graphql)
 *  [python-keycloak](https://github.com/marcospereirampj/python-keycloak)
 *  [Keycloak and PrivacyId3a docker-compose (local development)](https://github.com/JaouherK/keycloak-privacyIdea)
+*  [Nerzal/gocloak Golang Keycloak API Package](https://github.com/Nerzal/gocloak)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
