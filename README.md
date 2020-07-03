@@ -104,6 +104,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [AWS SAML based User Federation using Keycloak](https://medium.com/@karanbir.tech/aws-connect-saml-based-identity-provider-using-keycloak-9b3e6d0111e6)
 * [AWS user account OpenID federation using Keycloak](https://medium.com/@karanbir.tech/aws-account-openid-federation-using-keycloak-40d22b952a43)
 * [How to Run Keycloak in HA on Kubernetes](https://blog.sighup.io/keycloak-ha-on-kubernetes/)
+* [How to create a Keycloak authenticator as a microservice?](https://medium.com/application-security/how-to-create-a-keycloak-authenticator-as-a-microservice-ad332e287b58)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -152,6 +153,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Login with User Attribute](https://github.com/cnieg/keycloak-login-attribute)
 *  [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions)
 *  [leroyguillaume/keycloak-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt)
+*  [SPI Authenticator in Nodejs](https://www.npmjs.com/package/keycloak-rest-authenticator)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
