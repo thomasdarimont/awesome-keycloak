@@ -154,6 +154,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions)
 *  [leroyguillaume/keycloak-bcrypt](https://github.com/leroyguillaume/keycloak-bcrypt)
 *  [SPI Authenticator in Nodejs](https://www.npmjs.com/package/keycloak-rest-authenticator)
+*  [Have I Been Pwned? Keycloak Password Policy](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
