@@ -105,6 +105,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [AWS user account OpenID federation using Keycloak](https://medium.com/@karanbir.tech/aws-account-openid-federation-using-keycloak-40d22b952a43)
 * [How to Run Keycloak in HA on Kubernetes](https://blog.sighup.io/keycloak-ha-on-kubernetes/)
 * [How to create a Keycloak authenticator as a microservice?](https://medium.com/application-security/how-to-create-a-keycloak-authenticator-as-a-microservice-ad332e287b58)
+* [Grafana OAuth with Keycloak and how to validate a JWT token](https://janikvonrotz.ch/2020/08/27/grafana-oauth-with-keycloak-and-how-to-validate-a-jwt-token/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
