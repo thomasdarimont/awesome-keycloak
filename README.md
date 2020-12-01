@@ -129,6 +129,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2019 DevoxxFR | Maitriser sa gestion de l'identité avec Keycloak (L. Benoit, T. Recloux, S. Blanc)](https://www.youtube.com/watch?v=0cziL__0-K8)
 *  [2019 DevConf | Fine - Grained Authorization with Keycloak SSO (Marek Posolda)](https://www.youtube.com/watch?v=yosg4St0iUw)
 *  [2019 VoxxedDays Minsk | Bilding an effective identity and access management architecture with Keycloak (Sebastien Blanc)](https://www.youtube.com/watch?v=RupQWmYhrLA)
+*  [2019 Single-Sign-On Authentifizierung mit dem Keycloak Identity Provider | jambit CoffeeTalk](https://www.youtube.com/watch?v=dnY6ORaFNY8)
 *  [2020 Keycloak Team | Keycloak Pitch](https://www.youtube.com/watch?v=GZTN_VXjoQw)
 *  [2020 Keycloak Team | Keycloak Overview](https://www.youtube.com/watch?v=duawSV69LDI)
 *  [2020 Please-open.it : oauth2 dans le monde des ops (french)](https://www.youtube.com/watch?v=S-9X50QajmY)
