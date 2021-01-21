@@ -216,6 +216,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [oidc-bash-client](https://github.com/please-openit/oidc-bash-client)
 *  [louketo-proxy (FKA Gatekeeper)](https://github.com/louketo/louketo-proxy)
 *  [keycloak-config-cli: Configuration as Code for Keycloak](https://github.com/adorsys/keycloak-config-cli)
+*  [Keycloak Pulumi](https://github.com/pulumi/pulumi-keycloak)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
