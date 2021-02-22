@@ -25,6 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Articles](#articles)
 * [Talks](#talks)
 * [Presentations](#presentations)
+* [Video Playlists](#video-playlists)
 * [Community Extensions](#community-extensions)
 * [Integrations](#integrations)
 * [Themes](#themes)
@@ -137,6 +138,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
+
+## Video Playlists
+*  [Keycloak Identity and Access Management by Łukasz Budnik](https://www.youtube.com/playlist?list=PLPZal7ksxNs0mgScrJxrggEayV-TPZ9sA)
+*  [Keycloak by Niko Köbler](https://www.youtube.com/playlist?list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY)
 
 ## Clients
 *  [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
