@@ -144,6 +144,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Video Playlists
 *  [Keycloak Identity and Access Management by Łukasz Budnik](https://www.youtube.com/playlist?list=PLPZal7ksxNs0mgScrJxrggEayV-TPZ9sA)
 *  [Keycloak by Niko Köbler](https://www.youtube.com/playlist?list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY)
+*  [Keycloak Playlist by hexaDefence](https://youtu.be/35bflT_zxXA)
 
 ## Clients
 *  [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
