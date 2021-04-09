@@ -173,6 +173,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [SPI Authenticator in Nodejs](https://www.npmjs.com/package/keycloak-rest-authenticator)
 *  [Have I Been Pwned? Keycloak Password Policy](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 *  [Keycloak Eventlistener for Google Cloud Pub Sub](https://github.com/acesso-io/keycloak-event-listener-gcpubsub)
+*  [Enforcing Password policy based on attributes of User Groups](https://github.com/sayedcsekuet/keycloak-user-group-based-password-policy)
+
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
