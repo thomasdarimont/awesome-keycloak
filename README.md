@@ -210,6 +210,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Carbon Design](https://github.com/httpsOmkar/carbon-keycloak-theme)
 *  [Modern](https://keycloakthemes.com/themes/modern)
 *  [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
+*  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
