@@ -175,6 +175,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Eventlistener for Google Cloud Pub Sub](https://github.com/acesso-io/keycloak-event-listener-gcpubsub)
 *  [Enforcing Password policy based on attributes of User Groups](https://github.com/sayedcsekuet/keycloak-user-group-based-password-policy)
 *  [Verify Email with Link or Code by hokumski](https://github.com/hokumski/keycloak-verifyemailwithcode)
+*  [Role-based Docker registry authentication](https://github.com/lifs-tools/keycloak-docker-role-mapper)
 
 
 ## Integrations
