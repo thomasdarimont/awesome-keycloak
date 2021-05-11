@@ -257,6 +257,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Angular Webapp secured with Keycloak](https://github.com/CodepediaOrg/bookmarks.dev)
 *  [Keycloak Theme Development Kit](https://github.com/anthonny/kit-keycloak-theme)
 *  [Keycloak Clustering examples](https://github.com/ivangfr/keycloak-clustered)
+*  [Keycloak Last Login Date Event Listener](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
