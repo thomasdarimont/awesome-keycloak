@@ -281,6 +281,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
 *  [Use fail2ban to block brute-force attacks to keycloak server](https://gist.github.com/drmalex07/3eba8b98d0ac4a1e821e8e721b3e1816)
 *  [Pentest-Report Keycloak 8.0 Audit & Pentest 11.2019 by Cure53](https://cure53.de/pentest-report_keycloak.pdf)
+*  [Keycloak - CNCF Security SIG - Self Assesment](https://docs.google.com/document/d/14IIGliP3BWjdS-0wfOk3l_1AU8kyoSiLUzpPImsz4R0/edit#)
 
 # License
 
