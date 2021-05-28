@@ -114,6 +114,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Building cloud native apps: Identity and Access Management](https://dev.to/lukaszbudnik/building-cloud-native-apps-identity-and-access-management-1e5m)
 * [X.509 user certificate authentication with Red Hat’s single sign-on technology](https://developers.redhat.com/blog/2021/02/19/x-509-user-certificate-authentication-with-red-hats-single-sign-on-technology)
 * [Grafana OAuth with Keycloak and how to validate a JWT token](https://janikvonrotz.ch/2020/08/27/grafana-oauth-with-keycloak-and-how-to-validate-a-jwt-token/)
+* [How to setup a Keycloak server with external MySQL database on AWS ECS Fargate in clustered mode](https://jbjerksetmyr.medium.com/how-to-setup-a-keycloak-server-with-external-mysql-database-on-aws-ecs-fargate-in-clustered-mode-9775d01cd317)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -233,6 +234,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [louketo-proxy (FKA Gatekeeper)](https://github.com/louketo/louketo-proxy)
 *  [keycloak-config-cli: Configuration as Code for Keycloak](https://github.com/adorsys/keycloak-config-cli)
 *  [Keycloak Pulumi](https://github.com/pulumi/pulumi-keycloak)
+*  [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws)
+*  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
