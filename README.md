@@ -22,6 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     * [User Mailing List](#user-mailing-list)
     * [Developer Mailing List](#dev-mailing-list)
     * [Mailing List Search](#mailing-list-search)
+* [Books](#books)
 * [Articles](#articles)
 * [Talks](#talks)
 * [Presentations](#presentations)
@@ -54,6 +55,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 *  [Mailing List Search](http://www.keycloak.org/search)
 *  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
+
+## Books
+* [Keycloak - Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493)
 
 ## Articles
 *  [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
@@ -240,6 +244,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
 
 ## Example Projects
+*  [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
 *  [Keycloak Quickstarts](https://github.com/keycloak/keycloak-quickstarts)
 *  [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
