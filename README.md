@@ -116,6 +116,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Grafana OAuth with Keycloak and how to validate a JWT token](https://janikvonrotz.ch/2020/08/27/grafana-oauth-with-keycloak-and-how-to-validate-a-jwt-token/)
 * [Extending Keycloak: adding API key authentication](http://www.zakariaamine.com/2019-06-14/extending-keycloak)
 * [Extending Keycloak: using a custom email sender](http://www.zakariaamine.com/2019-07-14/extending-keycloak2)
+* [How to setup a Keycloak server with external MySQL database on AWS ECS Fargate in clustered mode](https://jbjerksetmyr.medium.com/how-to-setup-a-keycloak-server-with-external-mysql-database-on-aws-ecs-fargate-in-clustered-mode-9775d01cd317)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -235,6 +236,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [louketo-proxy (FKA Gatekeeper)](https://github.com/louketo/louketo-proxy)
 *  [keycloak-config-cli: Configuration as Code for Keycloak](https://github.com/adorsys/keycloak-config-cli)
 *  [Keycloak Pulumi](https://github.com/pulumi/pulumi-keycloak)
+*  [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws)
+*  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
 
 ## Example Projects
 *  [Official Examples](https://github.com/keycloak/keycloak/tree/master/examples)
@@ -261,6 +264,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Clustering examples](https://github.com/ivangfr/keycloak-clustered)
 *  [Keycloak Last Login Date Event Listener](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 *  [Keycloak Project Example (Customizations, Extensions, Configuration)](https://github.com/thomasdarimont/keycloak-project-example)
+*  [Example of adding API Key authentication to Keycloak](https://github.com/zak905/keycloak-api-key-demo)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
@@ -279,6 +283,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
 *  [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
 *  [Use fail2ban to block brute-force attacks to keycloak server](https://gist.github.com/drmalex07/3eba8b98d0ac4a1e821e8e721b3e1816)
+*  [Pentest-Report Keycloak 8.0 Audit & Pentest 11.2019 by Cure53](https://cure53.de/pentest-report_keycloak.pdf)
+*  [Keycloak - CNCF Security SIG - Self Assesment](https://docs.google.com/document/d/14IIGliP3BWjdS-0wfOk3l_1AU8kyoSiLUzpPImsz4R0/edit#)
 
 # License
 
