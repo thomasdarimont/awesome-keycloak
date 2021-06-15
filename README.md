@@ -115,6 +115,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [X.509 user certificate authentication with Red Hat’s single sign-on technology](https://developers.redhat.com/blog/2021/02/19/x-509-user-certificate-authentication-with-red-hats-single-sign-on-technology)
 * [Grafana OAuth with Keycloak and how to validate a JWT token](https://janikvonrotz.ch/2020/08/27/grafana-oauth-with-keycloak-and-how-to-validate-a-jwt-token/)
 * [How to setup a Keycloak server with external MySQL database on AWS ECS Fargate in clustered mode](https://jbjerksetmyr.medium.com/how-to-setup-a-keycloak-server-with-external-mysql-database-on-aws-ecs-fargate-in-clustered-mode-9775d01cd317)
+* [Extending Keycloak: adding API key authentication](http://www.zakariaamine.com/2019-06-14/extending-keycloak)
+* [Extending Keycloak: using a custom email sender](http://www.zakariaamine.com/2019-07-14/extending-keycloak2)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
