@@ -243,6 +243,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Pulumi](https://github.com/pulumi/pulumi-keycloak)
 *  [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws)
 *  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
+*  [keycloak-scanner Python CLI](https://github.com/NeuronAddict/keycloak-scanner)
 
 ## Example Projects
 *  [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
