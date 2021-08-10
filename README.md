@@ -186,6 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Verify Email with Link or Code by hokumski](https://github.com/hokumski/keycloak-verifyemailwithcode)
 *  [Role-based Docker registry authentication](https://github.com/lifs-tools/keycloak-docker-role-mapper)
 *  [SCIM for keycloak](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*  [Keycloak Kafka Module](https://github.com/SnuK87/keycloak-kafka)
 
 
 ## Integrations
