@@ -165,6 +165,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Community Extensions
 *  [Keycloak Extensions List](https://www.keycloak.org/extensions.html)
+*  [Keycloak Benchmark Project](https://github.com/keycloak/keycloak-benchmark)
 *  [Keycloak: Link IdP Login with User Provider](https://github.com/ohioit/keycloak-link-idp-with-user)
 *  [Client Owner Manager: Control who can edit a client](https://github.com/cyclone-project/cyclone-client-registration)
 *  [Keyloak Proxy written in Go](https://github.com/gambol99/keycloak-proxy)
