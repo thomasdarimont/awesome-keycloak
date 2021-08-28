@@ -238,6 +238,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 *  [keycloak-operator](https://github.com/keycloak/keycloak-operator)
 
+## Deployment Examples
+* [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
+
 ## Tools
 *  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
 *  [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API](https://github.com/ccouzens/keycloak-openapi)
