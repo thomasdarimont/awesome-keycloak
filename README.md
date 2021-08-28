@@ -31,6 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Integrations](#integrations)
 * [Themes](#themes)
 * [Docker](#docker)
+* [Deployment Examples](#deployment-examples)
 * [Example Projects](#example-projects)
 * [Benchmarks](#benchmarks)
 * [Help](#help)
@@ -238,9 +239,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 *  [keycloak-operator](https://github.com/keycloak/keycloak-operator)
 
-## Deployment Examples
-* [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
-
 ## Tools
 *  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
 *  [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API](https://github.com/ccouzens/keycloak-openapi)
@@ -251,6 +249,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws)
 *  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
 *  [keycloak-scanner Python CLI](https://github.com/NeuronAddict/keycloak-scanner)
+
+## Deployment Examples
+* [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
 
 ## Example Projects
 *  [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
