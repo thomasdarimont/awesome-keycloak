@@ -124,6 +124,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Extending Keycloak: using a custom email sender](http://www.zakariaamine.com/2019-07-14/extending-keycloak2)
 * [Integrating Keycloak and OPA with Confluent](https://goraft.tech/2021/03/17/integrating-keycloak-and-opa-with-confluent.html)
 * [UMA 2.0 : User Managed Access - how to use it with bash](https://blog.please-open.it/uma/)
+* [Setting Up A Keycloak Server For Authenticating To FileMaker](https://www.soundsessential.com/blog/204-setting-up-a-keycloak-server-for-authenticating-to-filemaker-introduction)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
