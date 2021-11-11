@@ -191,6 +191,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Role-based Docker registry authentication](https://github.com/lifs-tools/keycloak-docker-role-mapper)
 *  [SCIM for keycloak](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 *  [Keycloak Kafka Module](https://github.com/SnuK87/keycloak-kafka)
+*  [Useful Keycloak EventListenerProvider implementations and utilities](https://github.com/p2-inc/keycloak-events)
 
 
 ## Integrations
