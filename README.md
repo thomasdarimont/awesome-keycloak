@@ -125,6 +125,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Integrating Keycloak and OPA with Confluent](https://goraft.tech/2021/03/17/integrating-keycloak-and-opa-with-confluent.html)
 * [UMA 2.0 : User Managed Access - how to use it with bash](https://blog.please-open.it/uma/)
 * [Setting Up A Keycloak Server For Authenticating To FileMaker](https://soundsessential.medium.com/setting-up-a-keycloak-server-for-authenticating-to-filemaker-introduction-bfe8bba7a8b2)
+* [How to Make Keycloak Start Up Faster When There Are a Lot of Offline Sessions](https://medium.com/swlh/how-to-make-keycloak-start-up-faster-when-there-are-a-lot-of-offline-sessions-78ee49a907cb)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
