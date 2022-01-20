@@ -194,7 +194,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Kafka Module](https://github.com/SnuK87/keycloak-kafka)
 *  [Useful Keycloak EventListenerProvider implementations and utilities](https://github.com/p2-inc/keycloak-events)
 *  [Keycloak: Home IdP Discovery extension](https://github.com/sventorben/keycloak-home-idp-discovery)
-
+*  [Keycloak Metrics SPI](https://github.com/aerogear/keycloak-metrics-spi)
 
 ## Integrations
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
