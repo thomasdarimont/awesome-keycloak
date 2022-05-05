@@ -197,6 +197,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Metrics SPI](https://github.com/aerogear/keycloak-metrics-spi)
 
 ## Integrations
+*  [Keycloak Adapter for HTTP/MQTT/CoAP and IoT Brokers based on NodeJS](https://github.com/authbroker/authbroker)
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
 *  [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
 *  [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak)
