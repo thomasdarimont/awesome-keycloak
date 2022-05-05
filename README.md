@@ -198,7 +198,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Organizations for Keycloak](https://github.com/p2-inc/keycloak-orgs)
 
 ## Integrations
-*  [Keycloak Adapter for HTTP/MQTT/CoAP and IoT Brokers based on NodeJS](https://github.com/authbroker/authbroker)
+*  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
 *  [Official Keycloak Node.js Connect Adapter](https://github.com/keycloak/keycloak-nodejs-connect)
 *  [Keycloak support for Aurelia](https://github.com/waynepennington/aurelia-keycloak)
 *  [Keycloak OAuth2 Auth for PHP](https://github.com/stevenmaguire/oauth2-keycloak)
