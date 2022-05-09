@@ -1,6 +1,6 @@
 # Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# [<img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png">](https://github.com/thomasdarimont/awesome-keycloak)
+# [<img src="https://www.keycloak.org/resources/images/keycloak_logo_200px.svg">](https://github.com/thomasdarimont/awesome-keycloak)
 
 > Carefully curated list of awesome Keycloak resources.
 
