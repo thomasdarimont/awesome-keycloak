@@ -222,6 +222,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Nerzal/gocloak Golang Keycloak API Package](https://github.com/Nerzal/gocloak)
 *  [Apple Social Identity Provider for Keycloak](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 *  [Micrometer Keycloak extension](https://github.com/micrometer-metrics/micrometer-keycloak)
+*  [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
