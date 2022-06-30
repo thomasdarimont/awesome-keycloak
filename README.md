@@ -209,7 +209,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Duo Security MFA Authentication for Keycloak](https://github.com/mulesoft-labs/keycloak-duo-spi)
 *  [Extension Keycloak facilitant l'utilisation de FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect)
 *  [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
-*  [Keycloak Python Client](https://github.com/akhilputhiry/keycloak-client)
+*  [Keycloak Python Client](https://github.com/keycloak-client/keycloak-client)
 *  [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak)
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
