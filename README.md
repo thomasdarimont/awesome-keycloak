@@ -213,6 +213,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Terraform Provider](https://github.com/mrparkers/terraform-provider-keycloak)
 *  [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *  [React/NextJS Keycloak Bindings](https://github.com/panz3r/react-keycloak)
+*  [NextJS + tailwind + keycloak integration](https://github.com/santiblanko/keycloak-nextjs-auth)
 *  [Keycloak Open-Shift integration](https://github.com/keycloak/openshift-integration)
 *  [Keycloak, Kong and Konga setup scripts (local development)](https://github.com/JaouherK/Kong-konga-Keycloak)
 *  [SSO for Keycloak and Nextcloud with SAML](https://stackoverflow.com/questions/48400812/sso-with-saml-keycloak-and-nextcloud)
