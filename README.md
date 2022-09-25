@@ -235,6 +235,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
+*  [TailwindUI theme](https://github.com/santiblanko/tailwind-keycloak-theme)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
