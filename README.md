@@ -197,6 +197,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Metrics SPI](https://github.com/aerogear/keycloak-metrics-spi)
 *  [Organizations for Keycloak](https://github.com/p2-inc/keycloak-orgs)
 *  [Flexible IdP mapper for OIDC and SAML providers](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
+*  [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
