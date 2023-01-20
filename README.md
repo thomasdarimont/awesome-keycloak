@@ -316,6 +316,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Pentest-Report Keycloak 8.0 Audit & Pentest 11.2019 by Cure53](https://cure53.de/pentest-report_keycloak.pdf)
 *  [Keycloak - CNCF Security SIG - Self Assesment](https://docs.google.com/document/d/14IIGliP3BWjdS-0wfOk3l_1AU8kyoSiLUzpPImsz4R0/edit#)
 
+## Courses:
+
+* [Extending Keycloak: a Beginners' Guide](https://www.udemy.com/course/extending-keycloak/) (Udemy)
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
