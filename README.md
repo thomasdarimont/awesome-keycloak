@@ -201,6 +201,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Flexible IdP mapper for OIDC and SAML providers](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
 *  [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
 *  [MagicLink Authenticator by p2-inc](https://github.com/p2-inc/keycloak-magic-link)
+*  [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
