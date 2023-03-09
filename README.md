@@ -128,6 +128,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [How to Make Keycloak Start Up Faster When There Are a Lot of Offline Sessions](https://medium.com/swlh/how-to-make-keycloak-start-up-faster-when-there-are-a-lot-of-offline-sessions-78ee49a907cb)
 * [Using Coder to Develop Keycloak Templates Live (almost)](https://dev.to/m8a-io/m8a-scenario-1-using-coder-to-develop-keycloak-templates-live-almost-26e2)
 * [Keycloak Passkeys tutorial](https://keycloak.ch/keycloak-tutorials/tutorial-passkey/)
+* [Keycloak as Authorization Server in .NET](https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -297,6 +298,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Last Login Date Event Listener](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 *  [Keycloak Project Example (Customizations, Extensions, Configuration)](https://github.com/thomasdarimont/keycloak-project-example)
 *  [Example of adding API Key authentication to Keycloak](https://github.com/zak905/keycloak-api-key-demo)
+*  [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
