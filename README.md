@@ -130,6 +130,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak Passkeys tutorial](https://keycloak.ch/keycloak-tutorials/tutorial-passkey/)
 * [Keycloak as Authorization Server in .NET](https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html)
 * [How to use Let's Encrypt certificates with Keycloak](https://kaeruct.github.io/posts/how-to-use-lets-encrypt-certificates-with-keycloak.html)
+* [Keycloak Multi-Tenancy and the Pulumi Automation API: Part 1](https://www.zone2.tech/blog/keycloak-multi-tenancy-and-the-pulumi-automation-api-part-1)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
