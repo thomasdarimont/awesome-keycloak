@@ -89,6 +89,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [SSO-session failover with Keycloak and AWS S3](https://medium.com/@georgijsr/sso-session-failover-with-keycloak-and-aws-s3-e0b1db985e12)
 *  [KTOR and Keycloak: authentication with OpenId](https://medium.com/slickteam/ktor-and-keycloak-authentication-with-openid-ecd415d7a62e)
 * [Keycloak: Core concepts of open source identity and access management](https://developers.redhat.com/blog/2019/12/11/keycloak-core-concepts-of-open-source-identity-and-access-management)
+* [Writing Keycloak Extensions: Key Concepts and Anti-Patterns](https://www.zone2.tech/blog/writing-keycloak-extensions-key-concepts-and-anti-patterns)
 * [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 * [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
 * [Getting started with Keycloak](https://robferguson.org/blog/2019/12/24/getting-started-with-keycloak/)
