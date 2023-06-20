@@ -206,6 +206,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [MagicLink Authenticator by p2-inc](https://github.com/p2-inc/keycloak-magic-link)
 *  [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics)
 *  [softwarefactory-project/keycloak-filter-provider-users](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
+*  [Email Notifications when login from a new IP and Login History](https://github.com/eliskachylikova/keycloak-extensions)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
