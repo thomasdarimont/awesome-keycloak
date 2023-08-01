@@ -201,6 +201,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak: Home IdP Discovery extension](https://github.com/sventorben/keycloak-home-idp-discovery)
 *  [Keycloak Metrics SPI](https://github.com/aerogear/keycloak-metrics-spi)
 *  [Organizations for Keycloak by p2-inc](https://github.com/p2-inc/keycloak-orgs)
+*  [Admin Portal for User and Organization management by p2-inc](https://github.com/p2-inc/phasetwo-admin-portal)
 *  [Flexible IdP mapper for OIDC and SAML providers](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
 *  [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
 *  [MagicLink Authenticator by p2-inc](https://github.com/p2-inc/keycloak-magic-link)
@@ -247,6 +248,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
 *  [TailwindUI theme](https://github.com/santiblanko/tailwind-keycloak-theme)
+*  [Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
+*  [Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
+*  [3 CSS-only theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -315,7 +319,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Competence Center by Inventage AG](https://keycloak.ch/)
 *  [Keycloak as a Service](https://www.cloud-iam.com)
 *  [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
-*  [Phase Two](https://phasetwo.io/)
+*  Phase Two [Free Keycloak hosting](https://phasetwo.io/) and [On-prem Keycloak support](https://phasetwo.io/product/onprem)
 
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
