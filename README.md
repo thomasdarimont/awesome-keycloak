@@ -303,6 +303,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Project Example (Customizations, Extensions, Configuration)](https://github.com/thomasdarimont/keycloak-project-example)
 *  [Example of adding API Key authentication to Keycloak](https://github.com/zak905/keycloak-api-key-demo)
 *  [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*  [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI](https://github.com/mposolda/fapi-demo/tree/main)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
