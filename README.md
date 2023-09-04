@@ -133,6 +133,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak as Authorization Server in .NET](https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html)
 * [How to use Let's Encrypt certificates with Keycloak](https://kaeruct.github.io/posts/how-to-use-lets-encrypt-certificates-with-keycloak.html)
 * [Instant User Management, SSO, and Secure Pages for ReactJS](https://dev.to/phasetwo/instant-user-management-sso-and-secure-pages-for-reactjs-with-keycloak-4hej)
+* [Securing a Next.js Application with Keycloak](https://dev.to/phasetwo/securing-a-nextjs-application-with-keycloak-gm3)
+* [Django Web Authentication with Keycloak](https://dev.to/phasetwo/django-web-authentication-with-keycloak-3hl2)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
