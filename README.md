@@ -208,6 +208,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics)
 *  [softwarefactory-project/keycloak-filter-provider-users](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
 *  [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management)
+*  [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*  [embesozzi/keycloak-workshop-stepup-mfa-biometrics WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
