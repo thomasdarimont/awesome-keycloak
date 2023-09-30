@@ -59,6 +59,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Books
 * [Keycloak - Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493)
+* [Keycloak - Identity and Access Management for Modern Applications - Second Edition](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications-second-edition/9781804616444)
 
 ## Articles
 *  [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
