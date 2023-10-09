@@ -61,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Books
 * [Keycloak - Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493)
+* [Keycloak - Identity and Access Management for Modern Applications - Second Edition](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications-second-edition/9781804616444)
 
 ## Articles
 *  [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
@@ -135,6 +136,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Instant User Management, SSO, and Secure Pages for ReactJS](https://dev.to/phasetwo/instant-user-management-sso-and-secure-pages-for-reactjs-with-keycloak-4hej)
 * [Securing a Next.js Application with Keycloak](https://dev.to/phasetwo/securing-a-nextjs-application-with-keycloak-gm3)
 * [Django Web Authentication with Keycloak](https://dev.to/phasetwo/django-web-authentication-with-keycloak-3hl2)
+* [Keycloak Workshop for Step Up with MFA Biometrics Authentication (Passkeys) and Passwordless experience with Passkey autofill](https://embesozzi.medium.com/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -159,6 +161,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2020 Keycloak Team | Keycloak Pitch](https://www.youtube.com/watch?v=GZTN_VXjoQw)
 *  [2020 Keycloak Team | Keycloak Overview](https://www.youtube.com/watch?v=duawSV69LDI)
 *  [2020 Please-open.it : oauth2 dans le monde des ops (french)](https://www.youtube.com/watch?v=S-9X50QajmY)
+*  [2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022](https://www.youtube.com/watch?v=Ao15PH2BAw0)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
@@ -212,6 +215,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [MagicLink Authenticator by p2-inc](https://github.com/p2-inc/keycloak-magic-link)
 *  [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics)
 *  [softwarefactory-project/keycloak-filter-provider-users](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
+*  [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management)
+*  [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
@@ -311,6 +316,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Project Example (Customizations, Extensions, Configuration)](https://github.com/thomasdarimont/keycloak-project-example)
 *  [Example of adding API Key authentication to Keycloak](https://github.com/zak905/keycloak-api-key-demo)
 *  [Example for using Keycloak Authorization with ASP.NET Core](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*  [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI](https://github.com/mposolda/fapi-demo/tree/main)
+*  [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
