@@ -312,6 +312,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 *  [How to: Keycloak - ASP.NET Core - Angular](https://github.com/fschick/Keycloak.ASPNet.Angular)
 *  [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)](https://github.com/bcgov/vc-authn-oidc)
+*  [FIDO2 with Keycloak  for 1FA and 2FA christian-2/oidc-passkey](https://github.com/christian-2/oidc-passkey)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
