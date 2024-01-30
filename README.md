@@ -259,6 +259,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
 *  [Keycloak Examples as Docker Image](https://hub.docker.com/r/jboss/keycloak-examples)
 *  [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker](https://github.com/OpenPj/keycloak-docker-quickstart)
+*  [Keycloak with CRDB Support](https://quay.io/repository/phasetwo/keycloak-crdb) ([CockroachDB](https://www.cockroachlabs.com/))
 
 ## Kubernetes
 *  [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
