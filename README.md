@@ -293,6 +293,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws)
 *  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
 *  [keycloak-scanner Python CLI](https://github.com/NeuronAddict/keycloak-scanner)
+*  [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
 
 ## Deployment Examples
 * [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
