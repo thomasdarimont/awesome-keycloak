@@ -251,6 +251,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Micrometer Keycloak extension](https://github.com/micrometer-metrics/micrometer-keycloak)
 *  [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
 *  [Vault Keycloak Plugin](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
+*  [mantelo (Python Admin Client)](https://github.com/derlin/mantelo)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
