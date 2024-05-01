@@ -218,6 +218,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [softwarefactory-project/keycloak-filter-provider-users](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
 *  [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management)
 *  [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*  [Email Notifications when login from a new IP and Login History](https://github.com/eliskachylikova/keycloak-extensions)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
