@@ -222,6 +222,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management)
 *  [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 *  [Email Notifications when login from a new IP and Login History](https://github.com/eliskachylikova/keycloak-extensions)
+*  [Keycloak Authenticator for Duo's Universal Prompt](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
