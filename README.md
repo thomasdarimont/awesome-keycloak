@@ -325,6 +325,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [How to: Keycloak - ASP.NET Core - Angular](https://github.com/fschick/Keycloak.ASPNet.Angular)
 *  [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)](https://github.com/bcgov/vc-authn-oidc)
 *  [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey](https://github.com/christian-2/oidc-passkey)
+*  [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak_oidc](https://github.com/Amsterdam/keycloak_oidc)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
