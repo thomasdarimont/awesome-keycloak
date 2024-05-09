@@ -340,6 +340,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak on Stackoverflow](https://stackoverflow.com/questions/tagged/keycloak)
 
 ## Commercial Offerings
+*  [Red Hat build of Keycloak](https://access.redhat.com/products/red-hat-build-of-keycloak)
 *  [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
 *  [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
 *  [JIRA SSO Plugin by codecentric](https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview)
