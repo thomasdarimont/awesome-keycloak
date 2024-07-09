@@ -227,6 +227,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications](https://github.com/anarsultanov/keycloak-multi-tenancy)
 *  [OpenID Connect for Identity Assurance (OIDC4IDA) on Keycloak](https://github.com/Bredstone/Keycloak-Extension-OIDC4IDA)
 *  [Keycloak Testcontainer for Node.js](https://github.com/slemke/keycloak-testcontainer)
+*  [Keycloak Backup Email Required Action](https://github.com/slemke/keycloak-backup-email)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
