@@ -263,6 +263,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
 *  [Vault Keycloak Plugin](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
 *  [mantelo (Python Admin Client)](https://github.com/derlin/mantelo)
+*  [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
