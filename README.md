@@ -216,11 +216,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Useful Keycloak EventListenerProvider implementations and utilities](https://github.com/p2-inc/keycloak-events)
 *  [Keycloak: Home IdP Discovery extension](https://github.com/sventorben/keycloak-home-idp-discovery)
 *  [Keycloak Metrics SPI](https://github.com/aerogear/keycloak-metrics-spi)
-*  [Organizations for Keycloak by p2-inc](https://github.com/p2-inc/keycloak-orgs)
+*  [Organizations for Keycloak by Phase Two](https://github.com/p2-inc/keycloak-orgs)
 *  [Flexible IdP mapper for OIDC and SAML providers](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
 *  [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
-*  [Admin Portal for User and Organization management by p2-inc](https://github.com/p2-inc/phasetwo-admin-portal)
-*  [MagicLink Authenticator by p2-inc](https://github.com/p2-inc/keycloak-magic-link)
+*  [Admin Portal for User and Organization management by Phase Two](https://github.com/p2-inc/phasetwo-admin-portal)
+*  [MagicLink Authenticator by Phase Two](https://github.com/p2-inc/keycloak-magic-link)
 *  [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics)
 *  [softwarefactory-project/keycloak-filter-provider-users](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
 *  [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management)
@@ -278,9 +278,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
 *  [TailwindUI theme](https://github.com/santiblanko/tailwind-keycloak-theme)
-*  [Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
-*  [Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
-*  [3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*  [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
+*  [Phase Two: Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
+*  [Phase Two: 3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -360,7 +360,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Competence Center by Inventage AG](https://keycloak.ch/)
 *  [Keycloak as a Service](https://www.cloud-iam.com)
 *  [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
-*  Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
+*  Phase Two (https://phasetwo.io/) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
 *  [Skycloak](https://skycloak.io/)
 
 ## Miscellaneous
