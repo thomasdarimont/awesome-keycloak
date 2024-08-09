@@ -13,30 +13,33 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 # Contents
 
-* [General](#general)
-  * [Documentation](#docs)
-    * [Keycloak Website](http://www.keycloak.org)
-    * [Current Documentation](http://www.keycloak.org/documentation.html)
-    * [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
-  * [Mailing Lists](#mailing-lists)
-    * [User Mailing List](#user-mailing-list)
-    * [Developer Mailing List](#dev-mailing-list)
-    * [Mailing List Search](#mailing-list-search)
-* [Books](#books)
-* [Articles](#articles)
-* [Talks](#talks)
-* [Presentations](#presentations)
-* [Video Playlists](#video-playlists)
-* [Community Extensions](#community-extensions)
-* [Integrations](#integrations)
-* [Themes](#themes)
-* [Docker](#docker)
-* [Deployment Examples](#deployment-examples)
-* [Example Projects](#example-projects)
-* [Benchmarks](#benchmarks)
-* [Help](#help)
-* [Commercial Offerings](#commercial-offerings)
-* [Miscellaneous](#miscellaneous)
+- [Awesome Keycloak ](#awesome-keycloak-)
+- [](#)
+- [Contributing](#contributing)
+- [Contents](#contents)
+- [General](#general)
+  - [Documentation](#documentation)
+  - [Discussion Groups and Mailing Lists](#discussion-groups-and-mailing-lists)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Talks](#talks)
+  - [Presentations](#presentations)
+  - [Video Playlists](#video-playlists)
+  - [Clients](#clients)
+  - [Community Extensions](#community-extensions)
+  - [Integrations](#integrations)
+  - [Quick demo Videos](#quick-demo-videos)
+  - [Themes](#themes)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+  - [Tools](#tools)
+  - [Deployment Examples](#deployment-examples)
+  - [Example Projects](#example-projects)
+  - [Benchmarks](#benchmarks)
+  - [Help](#help)
+  - [Commercial Offerings](#commercial-offerings)
+  - [Miscellaneous](#miscellaneous)
+- [License](#license)
 
 # General
 
@@ -51,11 +54,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *  [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *  [Keycloak Discourse Group](https://keycloak.discourse.group/)
-*  [Keycloak Developer Chat](https://keycloak.zulipchat.com)
+*  [Inactive - Keycloak Developer Chat](https://keycloak.zulipchat.com)
 *  [Inactive - User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user)
 *  [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 *  [Mailing List Search](http://www.keycloak.org/search)
 *  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
+*  [GitHub Discussions](https://github.com/keycloak/keycloak/discussions)
+*  [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
 
 ## Books
 * [Keycloak - Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493)
@@ -90,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [SSO-session failover with Keycloak and AWS S3](https://medium.com/@georgijsr/sso-session-failover-with-keycloak-and-aws-s3-e0b1db985e12)
 *  [KTOR and Keycloak: authentication with OpenId](https://medium.com/slickteam/ktor-and-keycloak-authentication-with-openid-ecd415d7a62e)
 * [Keycloak: Core concepts of open source identity and access management](https://developers.redhat.com/blog/2019/12/11/keycloak-core-concepts-of-open-source-identity-and-access-management)
+* [Writing Keycloak Extensions: Key Concepts and Anti-Patterns](https://www.zone2.tech/blog/writing-keycloak-extensions-key-concepts-and-anti-patterns)
 * [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 * [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
 * [Getting started with Keycloak](https://robferguson.org/blog/2019/12/24/getting-started-with-keycloak/)
@@ -131,7 +137,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak Passkeys tutorial](https://keycloak.ch/keycloak-tutorials/tutorial-passkey/)
 * [Keycloak as Authorization Server in .NET](https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html)
 * [How to use Let's Encrypt certificates with Keycloak](https://kaeruct.github.io/posts/how-to-use-lets-encrypt-certificates-with-keycloak.html)
+* [Keycloak Multi-Tenancy and the Pulumi Automation API: Part 1](https://www.zone2.tech/blog/keycloak-multi-tenancy-and-the-pulumi-automation-api-part-1)
+* [Instant User Management, SSO, and Secure Pages for ReactJS](https://dev.to/phasetwo/instant-user-management-sso-and-secure-pages-for-reactjs-with-keycloak-4hej)
+* [Securing a Next.js Application with Keycloak](https://dev.to/phasetwo/securing-a-nextjs-application-with-keycloak-gm3)
+* [Django Web Authentication with Keycloak](https://dev.to/phasetwo/django-web-authentication-with-keycloak-3hl2)
 * [Keycloak Workshop for Step Up with MFA Biometrics Authentication (Passkeys) and Passwordless experience with Passkey autofill](https://embesozzi.medium.com/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)
+* [Migration from Spring Authorization Server to Keycloak Series' Articles](https://dev.to/mohammedalics/series/26952)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -166,6 +177,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak by Niko Köbler](https://www.youtube.com/playlist?list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY)
 *  [Keycloak Playlist by hexaDefence](https://youtu.be/35bflT_zxXA)
 *  [Keycloak Tutorial Series by CodeLens](https://www.youtube.com/watch?v=Lr9WeIMtFow&list=PLeGNmkzI56BTjRxNGxUhh4k30FD_gy0pC)
+*  [KeycloakDevDay 2024 by dasniko](https://www.youtube.com/watch?v=lQH-yNrF_As&list=PLNn3plN7ZiaqXjiDSB1KDaF3bCDuQmDgw)
 
 ## Clients
 *  [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
@@ -207,11 +219,20 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Organizations for Keycloak by p2-inc](https://github.com/p2-inc/keycloak-orgs)
 *  [Flexible IdP mapper for OIDC and SAML providers](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
 *  [2FA with Code sent via Email](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
+*  [Admin Portal for User and Organization management by p2-inc](https://github.com/p2-inc/phasetwo-admin-portal)
 *  [MagicLink Authenticator by p2-inc](https://github.com/p2-inc/keycloak-magic-link)
 *  [Keycloak Metrics based on Micrometer](https://github.com/kokuwaio/keycloak-event-metrics)
 *  [softwarefactory-project/keycloak-filter-provider-users](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
 *  [rciam/keycloak-group-management](https://github.com/rciam/keycloak-group-management)
 *  [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*  [Email Notifications when login from a new IP and Login History](https://github.com/eliskachylikova/keycloak-extensions)
+*  [Keycloak Authenticator for Duo's Universal Prompt](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
+*  [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications](https://github.com/anarsultanov/keycloak-multi-tenancy)
+*  [OpenID Connect for Identity Assurance (OIDC4IDA) on Keycloak](https://github.com/Bredstone/Keycloak-Extension-OIDC4IDA)
+*  [Keycloak Testcontainer for Node.js](https://github.com/slemke/keycloak-testcontainer)
+*  [Keycloak GDPR Event Logger](https://github.com/slemke/keycloak-gdpr-event-logger)
+*  [Keycloak Backup Email Required Action](https://github.com/slemke/keycloak-backup-email)
+*  [Keycloak Terms Authenticator: Require Terms and Conditions on every login](https://github.com/slemke/keycloak-terms-authenticator)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
@@ -239,8 +260,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Nerzal/gocloak Golang Keycloak API Package](https://github.com/Nerzal/gocloak)
 *  [Apple Social Identity Provider for Keycloak](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 *  [Micrometer Keycloak extension](https://github.com/micrometer-metrics/micrometer-keycloak)
+*  [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
 *  [Vault Keycloak Plugin](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
-*  
+*  [mantelo (Python Admin Client)](https://github.com/derlin/mantelo)
+*  [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party)
+
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
 
@@ -254,6 +278,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
 *  [TailwindUI theme](https://github.com/santiblanko/tailwind-keycloak-theme)
+*  [Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
+*  [Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
+*  [3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -277,6 +304,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak on AWS](https://github.com/aws-samples/keycloak-on-aws)
 *  [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python](https://github.com/aws-samples/cdk-keycloak)
 *  [keycloak-scanner Python CLI](https://github.com/NeuronAddict/keycloak-scanner)
+*  [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
+*  [Keycloak Configurator](https://github.com/CycriLabs/keycloak-configurator)
 
 ## Deployment Examples
 * [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
@@ -312,6 +341,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI](https://github.com/mposolda/fapi-demo/tree/main)
 *  [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 *  [How to: Keycloak - ASP.NET Core - Angular](https://github.com/fschick/Keycloak.ASPNet.Angular)
+*  [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)](https://github.com/bcgov/vc-authn-oidc)
+*  [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey](https://github.com/christian-2/oidc-passkey)
+*  [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak_oidc](https://github.com/Amsterdam/keycloak_oidc)
+*  [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys](https://github.com/adorsys/keycloak-ssi-deployment)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
@@ -320,13 +353,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak on Stackoverflow](https://stackoverflow.com/questions/tagged/keycloak)
 
 ## Commercial Offerings
+*  [Red Hat build of Keycloak](https://access.redhat.com/products/red-hat-build-of-keycloak)
 *  [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
 *  [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
 *  [JIRA SSO Plugin by codecentric](https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview)
 *  [Keycloak Competence Center by Inventage AG](https://keycloak.ch/)
 *  [Keycloak as a Service](https://www.cloud-iam.com)
 *  [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
-*  [Phase Two](https://phasetwo.io/)
+*  Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
+*  [Skycloak](https://skycloak.io/)
 
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
