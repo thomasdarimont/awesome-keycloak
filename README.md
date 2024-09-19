@@ -14,12 +14,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 # Contents
 
 - [Awesome Keycloak ](#awesome-keycloak-)
-- [](#)
 - [Contributing](#contributing)
 - [Contents](#contents)
 - [General](#general)
   - [Documentation](#documentation)
-  - [Discussion Groups and Mailing Lists](#discussion-groups-and-mailing-lists)
+  - [Discussion Groups and Mailing Lists](#community-sigs-discussion-forums-and-mailing-lists)
   - [Books](#books)
   - [Articles](#articles)
   - [Talks](#talks)
