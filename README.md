@@ -234,6 +234,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak GDPR Event Logger](https://github.com/slemke/keycloak-gdpr-event-logger)
 *  [Keycloak Backup Email Required Action](https://github.com/slemke/keycloak-backup-email)
 *  [Keycloak Terms Authenticator: Require Terms and Conditions on every login](https://github.com/slemke/keycloak-terms-authenticator)
+*  [Keycloak Adaptive Authentication Extension by @mabartos](https://github.com/mabartos/keycloak-adaptive-authn)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
