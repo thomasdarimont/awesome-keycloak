@@ -50,7 +50,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
 *  [Product Documentation for Red Hat Single Sign-On](https://access.redhat.com/documentation/en/red-hat-single-sign-on/)
 
-## Discussion Groups and Mailing Lists
+## Community, SIGs, Discussion Forums and Mailing Lists
 *  [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *  [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *  [Keycloak Discourse Group](https://keycloak.discourse.group/)
@@ -61,6 +61,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 *  [GitHub Discussions](https://github.com/keycloak/keycloak/discussions)
 *  [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
+*  [Keycloak OAuth SIG](https://github.com/keycloak/kc-sig-fapi)
+*  [Keycloak SRE SIG](https://github.com/keycloak/keycloak-sre-sig)
 
 ## Books
 * [Keycloak - Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493)
