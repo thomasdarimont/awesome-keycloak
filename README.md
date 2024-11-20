@@ -237,6 +237,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Adaptive Authentication Extension by @mabartos](https://github.com/mabartos/keycloak-adaptive-authn)
 *  [Keycloak GraphQL API by @blevine](https://github.com/blevine/keycloak-graphql)
 *  [Keycloak SCIM Federation Support](https://lab.libreho.st/libre.sh/scim/keycloak-scim)
+*  [Keycloak Trusted Device Support by @wouterh-dev](https://github.com/wouterh-dev/keycloak-spi-trusted-device)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
