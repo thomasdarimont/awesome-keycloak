@@ -240,6 +240,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Trusted Device Support by @wouterh-dev](https://github.com/wouterh-dev/keycloak-spi-trusted-device)
 *  [Keycloak MFA Plugins by @netzbegruenung](https://github.com/netzbegruenung/keycloak-mfa-plugins)
 *  [Keycloak OpenFGA Event Publisher by @embesozzi](https://github.com/embesozzi/keycloak-openfga-event-publisher)
+*  [JavaScript LDAP_ID ScriptMapper by @netzbegruenung](https://github.com/netzbegruenung/keycloak-scriptmapper-ldap-id)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
