@@ -272,6 +272,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Vault Keycloak Plugin](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
 *  [mantelo (Python Admin Client)](https://github.com/derlin/mantelo)
 *  [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party)
+*  [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
