@@ -286,6 +286,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Modern](https://keycloakthemes.com/themes/modern)
 *  [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
+*  [Tailcloakify: Tailwind CSS Keycloakify Theme](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
 *  [TailwindUI theme](https://github.com/santiblanko/tailwind-keycloak-theme)
 *  [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
