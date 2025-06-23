@@ -145,6 +145,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak Workshop for Step Up with MFA Biometrics Authentication (Passkeys) and Passwordless experience with Passkey autofill](https://embesozzi.medium.com/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)
 * [Migration from Spring Authorization Server to Keycloak Series' Articles](https://dev.to/mohammedalics/series/26952)
 * [Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and Open-Source Software](https://embesozzi.medium.com/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)
+* [Integrating LinkedIn with Keycloak](https://dev.to/aws-builders/enriching-keycloak-with-linkedin-vanityname-headline-profile-picture-via-custom-spi-g40)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
