@@ -171,6 +171,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2020 Keycloak Team | Keycloak Overview](https://www.youtube.com/watch?v=duawSV69LDI)
 *  [2020 Please-open.it : oauth2 dans le monde des ops (french)](https://www.youtube.com/watch?v=S-9X50QajmY)
 *  [2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022](https://www.youtube.com/watch?v=Ao15PH2BAw0)
+*  [Example how to configure Keycloak fine grained admin permissions](https://www.youtube.com/watch?v=ZrWH9nuumbg)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
