@@ -190,6 +190,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Nest.js Admin Client by Relevant Fruit](https://github.com/relevantfruit/nestjs-keycloak-admin)
 *  [Keycloak Mock Library](https://github.com/TNG/keycloak-mock)
 *  [.NET / C# Keycloak.RestApiClient](https://github.com/fschick/Keycloak.RestApiClient)
+*  [ACKC: Python API Client for Keycloak](https://github.com/acie-io/ackc)
 
 ## Community Extensions
 *  [Keycloak Extensions List](https://www.keycloak.org/extensions.html)
