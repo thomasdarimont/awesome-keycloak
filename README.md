@@ -365,6 +365,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey](https://github.com/christian-2/oidc-passkey)
 *  [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak_oidc](https://github.com/Amsterdam/keycloak_oidc)
 *  [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys](https://github.com/adorsys/keycloak-ssi-deployment)
+*  [Keycloak and SPIRE for Agent Identity](https://github.com/christian-posta/keycloak-agent-identity)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
