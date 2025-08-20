@@ -145,6 +145,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Keycloak Workshop for Step Up with MFA Biometrics Authentication (Passkeys) and Passwordless experience with Passkey autofill](https://embesozzi.medium.com/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)
 * [Migration from Spring Authorization Server to Keycloak Series' Articles](https://dev.to/mohammedalics/series/26952)
 * [Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and Open-Source Software](https://embesozzi.medium.com/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)
+* [Integrating LinkedIn with Keycloak](https://dev.to/aws-builders/enriching-keycloak-with-linkedin-vanityname-headline-profile-picture-via-custom-spi-g40)
+* [Authenticating MCP OAuth Clients With SPIFFE and SPIRE](https://blog.christianposta.com/authenticating-mcp-oauth-clients-with-spiffe/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -170,6 +172,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2020 Keycloak Team | Keycloak Overview](https://www.youtube.com/watch?v=duawSV69LDI)
 *  [2020 Please-open.it : oauth2 dans le monde des ops (french)](https://www.youtube.com/watch?v=S-9X50QajmY)
 *  [2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022](https://www.youtube.com/watch?v=Ao15PH2BAw0)
+*  [Example how to configure Keycloak fine grained admin permissions](https://www.youtube.com/watch?v=ZrWH9nuumbg)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
@@ -188,6 +191,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Nest.js Admin Client by Relevant Fruit](https://github.com/relevantfruit/nestjs-keycloak-admin)
 *  [Keycloak Mock Library](https://github.com/TNG/keycloak-mock)
 *  [.NET / C# Keycloak.RestApiClient](https://github.com/fschick/Keycloak.RestApiClient)
+*  [ACKC: Python API Client for Keycloak](https://github.com/acie-io/ackc)
 
 ## Community Extensions
 *  [Keycloak Extensions List](https://www.keycloak.org/extensions.html)
@@ -246,6 +250,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Identity provider for German eID L21s/keycloak-eid-identity-provider](https://github.com/L21s/keycloak-eid-identity-provider/tree/main)
 *  [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
 *  [ALTCHA Captcha Extension for Keycloak](https://git.lacontrevoie.fr/lacontrevoie/keycloak-altcha)
+*  [Keycloak Webhooks from vymalo/keycloak-webhook](https://github.com/vymalo/keycloak-webhook)
+*  [Notification on Impersonation SebastEnn/impersonation-notification](https://github.com/SebastEnn/impersonation-notification)
+*  [SPIFFE SVID Client Authenticator for Keycloak](https://github.com/christian-posta/spiffe-svid-client-authenticator)
+*  [(Send) Email on user creation](https://github.com/stfc/keycloak-email-on-user-creation)
+*  [Keycloak Custom Modules for SRG hardening](https://github.com/mitre/keycloak-custom-policies)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
@@ -290,6 +299,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Modern](https://keycloakthemes.com/themes/modern)
 *  [Adminlte](https://git.uptic.nl/uptic-public-projects/uptic-keyclock-theme-adminlte)
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
+*  [Tailcloakify: Tailwind CSS Keycloakify Theme](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
 *  [TailwindUI theme](https://github.com/santiblanko/tailwind-keycloak-theme)
 *  [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
@@ -360,6 +370,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey](https://github.com/christian-2/oidc-passkey)
 *  [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak_oidc](https://github.com/Amsterdam/keycloak_oidc)
 *  [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys](https://github.com/adorsys/keycloak-ssi-deployment)
+*  [Keycloak and SPIRE for Agent Identity](https://github.com/christian-posta/keycloak-agent-identity)
 
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
