@@ -306,7 +306,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
 *  [Phase Two: Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
 *  [Phase Two: 3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
-*  [Keywind component-based Keycloak Login Theme with Tailwind CSS](https://github.com/lukin/keywind)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
