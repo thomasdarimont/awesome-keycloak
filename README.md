@@ -249,6 +249,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [evosec/keycloak-ipaddress-authenticator](https://github.com/evosec/keycloak-ipaddress-authenticator)
 *  [Identity provider for German eID L21s/keycloak-eid-identity-provider](https://github.com/L21s/keycloak-eid-identity-provider/tree/main)
 *  [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
+*  [ALTCHA Captcha Extension for Keycloak](https://git.lacontrevoie.fr/lacontrevoie/keycloak-altcha)
 *  [Keycloak Webhooks from vymalo/keycloak-webhook](https://github.com/vymalo/keycloak-webhook)
 *  [Notification on Impersonation SebastEnn/impersonation-notification](https://github.com/SebastEnn/impersonation-notification)
 *  [SPIFFE SVID Client Authenticator for Keycloak](https://github.com/christian-posta/spiffe-svid-client-authenticator)
