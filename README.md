@@ -175,6 +175,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022](https://www.youtube.com/watch?v=Ao15PH2BAw0)
 *  [Example how to configure Keycloak fine grained admin permissions](https://www.youtube.com/watch?v=ZrWH9nuumbg)
 *  [2025 FrosCon | Delegate authentication and a lot more to Keycloak with OpenID Connect, Alexander Schwartz](https://media.ccc.de/v/froscon2025-3237-delegate_authentication_and_a_lot_more_to_keycloak_with_openid_connect)
+*  [Keycloak IGA (Keycloak fork)](https://github.com/tide-foundation/keycloak-IGA)
 
 ## Presentations
 *  [Keycloak 101](https://stevenolen.github.io/kc101-talk/#1)
@@ -257,7 +258,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [SPIFFE SVID Client Authenticator for Keycloak](https://github.com/christian-posta/spiffe-svid-client-authenticator)
 *  [(Send) Email on user creation](https://github.com/stfc/keycloak-email-on-user-creation)
 *  [Keycloak Custom Modules for SRG hardening](https://github.com/mitre/keycloak-custom-policies)
-*  [Keycloak IGA (Keycloak fork)](https://github.com/tide-foundation/keycloak-IGA)
+*  [tidecloak (Keycloak fork)](https://tide.org/tidecloak)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
