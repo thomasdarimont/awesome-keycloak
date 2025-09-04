@@ -257,6 +257,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [SPIFFE SVID Client Authenticator for Keycloak](https://github.com/christian-posta/spiffe-svid-client-authenticator)
 *  [(Send) Email on user creation](https://github.com/stfc/keycloak-email-on-user-creation)
 *  [Keycloak Custom Modules for SRG hardening](https://github.com/mitre/keycloak-custom-policies)
+*  [Keycloak IGA (Keycloak fork)](https://github.com/tide-foundation/keycloak-IGA)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
