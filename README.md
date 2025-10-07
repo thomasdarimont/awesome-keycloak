@@ -259,6 +259,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [(Send) Email on user creation](https://github.com/stfc/keycloak-email-on-user-creation)
 *  [Keycloak Custom Modules for SRG hardening](https://github.com/mitre/keycloak-custom-policies)
 *  [tidecloak (Keycloak fork)](https://tide.org/tidecloak)
+*  [Keycloak reCAPTCHA Password Defense](https://github.com/califio/keycloak-recaptcha-password-defense)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
