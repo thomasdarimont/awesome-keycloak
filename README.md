@@ -261,6 +261,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [tidecloak (Keycloak fork)](https://tide.org/tidecloak)
 *  [Keycloak reCAPTCHA Password Defense](https://github.com/califio/keycloak-recaptcha-password-defense)
 *  [Keycloak Custom Attribute IDP Linking](https://github.com/sd-f/keycloak-custom-attribute-idp-linking)
+*  [Invites for your Keycloak](https://github.com/hu553in/invites-keycloak)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
