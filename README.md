@@ -261,6 +261,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [tidecloak (Keycloak fork)](https://tide.org/tidecloak)
 *  [Keycloak reCAPTCHA Password Defense](https://github.com/califio/keycloak-recaptcha-password-defense)
 *  [Keycloak Custom Attribute IDP Linking](https://github.com/sd-f/keycloak-custom-attribute-idp-linking)
+*  [KETE - Event forwarding](https://fortunen.github.io/kete)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
@@ -293,6 +294,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [mantelo (Python Admin Client)](https://github.com/derlin/mantelo)
 *  [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party)
 *  [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
+*  [KETE - Event forwarding](https://fortunen.github.io/kete)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
