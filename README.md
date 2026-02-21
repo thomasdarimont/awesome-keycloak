@@ -148,6 +148,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and Open-Source Software](https://embesozzi.medium.com/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)
 * [Integrating LinkedIn with Keycloak](https://dev.to/aws-builders/enriching-keycloak-with-linkedin-vanityname-headline-profile-picture-via-custom-spi-g40)
 * [Authenticating MCP OAuth Clients With SPIFFE and SPIRE](https://blog.christianposta.com/authenticating-mcp-oauth-clients-with-spiffe/)
+* [Keycloak User Federation with LDAP and Active Directory](https://www.iamdevbox.com/posts/keycloak-user-federation-with-ldap-and-active-directory/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
