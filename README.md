@@ -263,6 +263,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak reCAPTCHA Password Defense](https://github.com/califio/keycloak-recaptcha-password-defense)
 *  [Keycloak Custom Attribute IDP Linking](https://github.com/sd-f/keycloak-custom-attribute-idp-linking)
 *  [KETE - Event forwarding](https://fortunen.github.io/kete)
+*  [Keycloak Cookieless IDP Extension](https://github.com/dominikschlosser/keycloak-cookieless-idp-extension)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
