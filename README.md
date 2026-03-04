@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/thomasdarimont-awesome-keycloak-badge.png)](https://mseep.ai/app/thomasdarimont-awesome-keycloak)
+
 # Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://www.keycloak.org/resources/images/logo.svg">](https://github.com/thomasdarimont/awesome-keycloak)
