@@ -99,10 +99,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Writing Keycloak Extensions: Key Concepts and Anti-Patterns](https://www.zone2.tech/blog/writing-keycloak-extensions-key-concepts-and-anti-patterns)
 * [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 * [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
-* [Getting started with Keycloak](https://robferguson.org/blog/2019/12/24/getting-started-with-keycloak/)
-* [Angular, OpenID Connect and Keycloak](https://robferguson.org/blog/2019/12/29/angular-openid-connect-keycloak/)
-* [Angular, OAuth 2.0 Scopes and Keycloak](https://robferguson.org/blog/2019/12/31/angular-oauth2-keycloak/)
-* [Keycloak, Flowable and OpenLDAP](https://robferguson.org/blog/2020/01/03/keycloak-flowable-and-openldap/)
+* [Getting started with Keycloak](https://rob-ferguson.me/getting-started-with-keycloak/)
+* [Angular, OpenID Connect and Keycloak](https://rob-ferguson.me/angular-openid-connect-keycloak/)
+* [Angular, OAuth 2.0 Scopes and Keycloak](https://rob-ferguson.me/angular-oauth2-keycloak/)
+* [Keycloak, Flowable and OpenLDAP](https://rob-ferguson.me/keycloak-flowable-and-openldap/)
 * [How to exchange token from an external provider to a keycloak token](https://www.mathieupassenaud.fr/token-exchange-keycloak/)
 * [How to Setup Role Based Access Control (RBAC) with Keycloak](https://www.permit.io/blog/implementing-dynamic-keycloak-rbac-with-permitio)
 * [Building an Event Listener SPI (Plugin) for Keycloak](https://dev.to/adwaitthattey/building-an-event-listener-spi-plugin-for-keycloak-2044)
@@ -148,6 +148,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and Open-Source Software](https://embesozzi.medium.com/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)
 * [Integrating LinkedIn with Keycloak](https://dev.to/aws-builders/enriching-keycloak-with-linkedin-vanityname-headline-profile-picture-via-custom-spi-g40)
 * [Authenticating MCP OAuth Clients With SPIFFE and SPIRE](https://blog.christianposta.com/authenticating-mcp-oauth-clients-with-spiffe/)
+* [Keycloak User Federation with LDAP and Active Directory](https://www.iamdevbox.com/posts/keycloak-user-federation-with-ldap-and-active-directory/)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
@@ -262,6 +263,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak reCAPTCHA Password Defense](https://github.com/califio/keycloak-recaptcha-password-defense)
 *  [Keycloak Custom Attribute IDP Linking](https://github.com/sd-f/keycloak-custom-attribute-idp-linking)
 *  [Invites for your Keycloak](https://github.com/hu553in/invites-keycloak)
+*  [KETE - Event forwarding](https://fortunen.github.io/kete)
+*  [Keycloak Cookieless IDP Extension](https://github.com/dominikschlosser/keycloak-cookieless-idp-extension)
+*  [Pin Code Authenticator for Keycloak ACR/LOA](https://github.com/ldesroch/keycloak-pin-code-authenticator)
+*  [Keycloak-GeoAware is an extension for Keycloak that integrates geolocation and device monitoring](https://b2-code.github.io/Keycloak-GeoAware/)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
@@ -294,6 +299,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [mantelo (Python Admin Client)](https://github.com/derlin/mantelo)
 *  [Keyloak Integration for the German E-Health ID (GesundheitsID)](https://github.com/oviva-ag/ehealthid-relying-party)
 *  [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
+*  [KETE - Event forwarding](https://fortunen.github.io/kete)
 
 ## Quick demo Videos
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
@@ -397,6 +403,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Skycloak](https://skycloak.io/)
 *  [loginfactor](https://www.loginfactor.com/)
 *  [univention](https://www.univention.com/)
+*  [Keymate](https://keymate.io)
 
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
