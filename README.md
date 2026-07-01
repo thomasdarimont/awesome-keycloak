@@ -50,6 +50,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Product Documentation for Red Hat Single Sign-On](https://access.redhat.com/documentation/en/red-hat-single-sign-on/)
 
 ## Community, SIGs, Discussion Forums and Mailing Lists
+- [CIAM.wiki](https://ciam.wiki) — Vendor-neutral encyclopedia of Customer Identity (CIAM) — concepts, comparisons, and a market map.
 *  [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *  [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *  [Keycloak Discourse Group](https://keycloak.discourse.group/)
