@@ -410,6 +410,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [loginfactor](https://www.loginfactor.com/)
 *  [univention](https://www.univention.com/)
 *  [Keymate](https://keymate.io)
+*  [Clever.cloud Keycloak as a Service](https://www.clever.cloud/product/managed-keycloak-as-a-service/)
 *  [Perfsys](https://perfsys.com/solutions/keycloak-sso/) - Managed Keycloak deployment and SSO integration on AWS.
 
 ## Miscellaneous
