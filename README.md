@@ -323,6 +323,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [AUTHFIT: Keycloak login theme with a live, no-code editor built into the admin console.](https://github.com/salliver/AUTHFIT-Keycloak-theme-live-editor)
 *  [Online Keycloak Theme Editor](https://keycloak-theme-editor.org/) for plain Keycloak Themes
 *  [cloakey Online Theme Editor](https://cloakey.dev/) for Keycloakify based Themes
+*  [Tailcloakify - A Keycloak theme based on Keycloakify and Tailwind](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
