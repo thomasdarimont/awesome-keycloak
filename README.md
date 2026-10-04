@@ -351,6 +351,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
 *  [Keycloak Configurator](https://github.com/CycriLabs/keycloak-configurator)
 *  [kcwarden Config Auditor](https://github.com/iteratec/kcwarden)
+*  [kcac: Effective Access Export for Access Reviews](https://github.com/softika/kcac)
 
 ## Deployment Examples
 * [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
