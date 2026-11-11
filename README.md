@@ -324,6 +324,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Online Keycloak Theme Editor](https://keycloak-theme-editor.org/) for plain Keycloak Themes
 *  [cloakey Online Theme Editor](https://cloakey.dev/) for Keycloakify based Themes
 *  [Tailcloakify - A Keycloak theme based on Keycloakify and Tailwind](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify)
+*  [Keycloak Configurable Theme: One Theme for All Realms, Branded per Realm via JSON, Admin Console or REST API](https://github.com/dockndevai/keycloak-configurable-theme)
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
