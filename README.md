@@ -196,6 +196,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Mock Library](https://github.com/TNG/keycloak-mock)
 *  [.NET / C# Keycloak.RestApiClient](https://github.com/fschick/Keycloak.RestApiClient)
 *  [ACKC: Python API Client for Keycloak](https://github.com/acie-io/ackc)
+*  [keycloak-api-ts: TypeScript Admin REST API Client for Node.js](https://github.com/Master-Mils/keycloak-api-ts) (full Admin API coverage, CommonJS and ESM)
 
 ## Community Extensions
 *  [Keycloak Extensions List](https://www.keycloak.org/extensions.html)
