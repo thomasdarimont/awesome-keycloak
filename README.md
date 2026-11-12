@@ -269,6 +269,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Vault Provider for OpenBao and HashiCorp Vault](https://github.com/Nordix/keycloak-secrets-vault-provider)
 *  [Keycloak Redis Cache](https://github.com/p2-inc/keycloak-redis-cache)
 *  [Cloudflare Turnstile support for Keycloak](https://github.com/systemofapwne/keycloak-turnstile)
+*  [IdP Wizard by Phase Two: guided OIDC, SAML and LDAP setup for customer admins, without the Keycloak admin console](https://github.com/p2-inc/idp-wizard)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
