@@ -352,6 +352,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Configurator](https://github.com/CycriLabs/keycloak-configurator)
 *  [kcwarden Config Auditor](https://github.com/iteratec/kcwarden)
 *  [kcac: Effective Access Export for Access Reviews](https://github.com/softika/kcac)
+*  [Keycloak Skills by Phase Two: Agent Skills for Claude Code, Cursor and Codex to configure passwordless login, SSO and organizations](https://github.com/p2-inc/keycloak-skills)
 
 ## Deployment Examples
 * [Keycloak deployment with CDK on AWS with Fargate](https://github.com/aws-samples/cdk-keycloak)
