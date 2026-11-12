@@ -407,7 +407,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Competence Center by Inventage AG](https://keycloak.ch/)
 *  [Cloud-IAM](https://www.cloud-iam.com) - Managed Keycloak SaaS with dedicated instances deployed in 20 minutes. ISO 27001:2022, SOC 2 Type 2, SecNumCloud 3.2 certified. 70+ regions, 99.98% SLA.
 *  [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
-*  Phase Two (https://phasetwo.io/) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
+*  [Phase Two](https://phasetwo.io/) - Managed Keycloak on [dedicated clusters](https://phasetwo.io/hosting/dedicated-clusters/) in any major region (EU clusters in Frankfurt), and [enterprise Keycloak support](https://phasetwo.io/support/). SOC 2 Type II and ISO 27001 certified. Maintainers of the Phase Two extensions listed above.
 *  [Skycloak](https://skycloak.io/)
 *  [loginfactor](https://www.loginfactor.com/)
 *  [univention](https://www.univention.com/)
