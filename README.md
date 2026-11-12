@@ -269,6 +269,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak Vault Provider for OpenBao and HashiCorp Vault](https://github.com/Nordix/keycloak-secrets-vault-provider)
 *  [Keycloak Redis Cache](https://github.com/p2-inc/keycloak-redis-cache)
 *  [Cloudflare Turnstile support for Keycloak](https://github.com/systemofapwne/keycloak-turnstile)
+*  [Atomic Auth Flows by Phase Two: import authentication flows and their bindings in one transactional request, safe to rerun from CI/CD](https://github.com/p2-inc/keycloak-atomic-auth-flows)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
