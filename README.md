@@ -149,6 +149,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Integrating LinkedIn with Keycloak](https://dev.to/aws-builders/enriching-keycloak-with-linkedin-vanityname-headline-profile-picture-via-custom-spi-g40)
 * [Authenticating MCP OAuth Clients With SPIFFE and SPIRE](https://blog.christianposta.com/authenticating-mcp-oauth-clients-with-spiffe/)
 * [Keycloak User Federation with LDAP and Active Directory](https://www.iamdevbox.com/posts/keycloak-user-federation-with-ldap-and-active-directory/)
+* [Migrate from Auth0 to Keycloak](https://ditchly.co/migrate/auth0-to-keycloak)
 
 ## Talks
 *  [JDD2015 - Keycloak Open Source Identity and Access Management Solution](https://www.youtube.com/watch?v=TuEkj25lbd0)
